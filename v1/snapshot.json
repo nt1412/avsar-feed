@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:19:39.499Z",
+  "generatedAt": "2026-11-10T12:39:22.309Z",
   "opportunities": [
     {
       "advtNo": "1026/B",
@@ -2106,6 +2106,125 @@
         "checkedAt": "2026-11-10T06:46:37.841Z",
         "status": "verified",
         "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "04/2026",
+      "applyMode": "email",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T12:39:04.094Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T12:39:04.094Z",
+        "lastDate": "2026-11-30",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": null,
+          "max": 56,
+          "min": 45,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 16,
+          "text": "At least 16 years of experience in Research and Development (with focus on translational research) in the areas of activities of the laboratory/Institutes/Centre and demonstrated excellence in leadership therein."
+        },
+        "other": [
+          "Ph.D. is desirable for candidates with Engineering qualification",
+          "Tenure of six years or till superannuation, whichever is earlier; renewable only in exceptional cases",
+          "Should be creative, innovative and a well-recognized scientist/technologist with demonstrated ability to manage multidisciplinary R&D teams",
+          "Qualifications, age and experience can be relaxed for exceptionally meritorious candidates with the approval of DG, CSIR"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Natural Sciences"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Ph.D. in Natural Sciences"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master’s Degree in Engineering (for Engineering, Ph.D. is desirable)"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:f53b04b7bc6f",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-09/advert_director_csir-ncl_eng.pdf"
+      },
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra"
+      },
+      "pay": {
+        "monthlyMax": 224100,
+        "monthlyMin": 182200,
+        "text": "Level 15 of Pay Matrix (Rs.1,82,200- 2,24,100) with allowances as admissible"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Age: 45 years or above but not exceeding 56 years."
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "Experience: At least 16 years of experience in Research and Development (with focus on translational research)"
+        },
+        "lastDate": {
+          "page": 3,
+          "snippet": "The last date of the receipt of applications is 30th November, 2026."
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "level 15 of Pay Matrix (Rs.1,82,200- 2,24,100) with allowances as admissible"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Essential Qualifications: Ph.D. in Natural Sciences or Master’s Degree in Engineering"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "CSIR is looking for Director, CSIR-National Chemical Laboratory (CSIR-NCL), Pune."
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Director of CSIR-National Chemical Laboratory (CSIR-NCL), Pune, a constituent laboratory of CSIR, on a tenure of six years or till superannuation, whichever is earlier.",
+      "title": "Director",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T12:39:04.094Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
       }
     },
     {
@@ -6593,5 +6712,5 @@
     }
   ],
   "schemaVersion": 1,
-  "seq": 3
+  "seq": 4
 }
