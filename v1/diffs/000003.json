@@ -1,0 +1,2273 @@
+{
+  "date": "2026-11-10",
+  "expire": [
+    {
+      "at": "2026-11-10T07:19:39.499Z",
+      "id": "csir-nal:62f37c24409c",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T07:19:39.499Z",
+      "id": "csir-nal:74f7d587be60",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T07:19:39.499Z",
+      "id": "csir-nal:b6407888b0fb",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T07:19:39.499Z",
+      "id": "csir-nal:e82d49ad5193",
+      "reason": "gone_from_source"
+    }
+  ],
+  "generatedAt": "2026-11-10T07:19:39.499Z",
+  "prevSeq": 2,
+  "schemaVersion": 1,
+  "seq": 3,
+  "upserts": [
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:18:23.203Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T07:18:23.203Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (with the Bachelor’s degree route)"
+        },
+        "other": [
+          "Tenure up to 31/03/2028 (Extendable)",
+          "Desirable: Programming knowledge in C/C++/Python for Image processing and AI applications in agriculture",
+          "Desirable: Working knowledge of Mechatronics/Robotics system design"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology",
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology in Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology/Mechanical Engineering/ Agricultural Engineering/ Mechatronics/ from a recognized University or equivalent and 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology",
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters / Integrated Masters in Engineering or Technology in Computer Science / Electronics and Communication Engineering / Electrical Engineering / Information Technology/Mechanical Engineering/ Agricultural Engineering/ Mechatronics from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:713715edeca9",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 28000,
+        "text": "Rs. 35,000 + HRA* for candidates who have qualified CSIR-UGC / ICAR / ICMR NET incl. lectureship/assistant professorship or GATE or National level examinations conducted by Central Government Departments like DBT/DST or equivalent; Rs. 28,000 + HRA* for others."
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "35 Years"
+        },
+        "experience": {
+          "page": 1,
+          "snippet": "2 years’ experience in Research and Development in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Rs. 35,000 + HRA* for"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Bachelor’s degree in Engineering or Technology in"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate - II"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Project Associate-II engaged under project MMP025303 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, through walk-in interview on 11.11.2026.",
+      "title": "Project Associate - II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:18:23.203Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:18:23.203Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T07:18:23.203Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": null,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "3 years’ experience in Research and Development for Senior-Project Associate (Bachelor’s route); 2 years’ experience in Research and Development for Project Associate – II (Bachelor’s route)"
+        },
+        "other": [
+          "Upper age limit: Senior-Project Associate 40 Years; PAT – II 35 Years",
+          "Tenure up to 31/03/2028 (Extendable)",
+          "Desirable: Proficiency in mechanical design, CAD/CAE tools, experience in prototype development and engineering, and validation of agricultural machinery",
+          "Desirable: Programming knowledge in C/C++/Python for Image processing and AI applications in agriculture"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Agricultural",
+              "Mechatronics",
+              "Computer Science",
+              "Electronics"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "For Senior-Project Associate: Bachelor’s degree in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University or equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services. For Project Associate – II: Bachelor’s degree in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University or equivalent and 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Agricultural",
+              "Mechatronics",
+              "Computer Science",
+              "Electronics"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters / Integrated Masters in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University (for Senior-Project Associate, with 2 years’ experience in Research and Development; for Project Associate – II, no experience stated)."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:77a4bba19a96",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 28000,
+        "text": "For Senior-Project Associate: Rs. 42,000/- +HRA; For PAT-II: Rs. 35,000 + HRA* for those who have qualified CSIR-UGC / ICAR / ICMR NET incl. lectureship/assistant professorship or GATE or National level examinations conducted by Central Government Departments like DBT/DST or equivalent; Rs. 28,000 + HRA* for others."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Senior-Project Associate : 40 Years; PAT – II : 35 Years"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "3 years’ experience in Research and Development in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 42,000/- +HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Bachelor’s degree in Engineering or Technology in"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Senior-Project Associate Or Project Associate - II"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Post code P702 under project MMP025303 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, offered as Senior-Project Associate or Project Associate-II, with walk-in interview on 11.11.2026.",
+      "title": "Senior-Project Associate Or Project Associate - II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:18:23.203Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:18:23.203Z",
+          "what": "Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T07:18:23.203Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (with the Bachelor’s route)"
+        },
+        "other": [
+          "Tenure up to 31/03/2028 (Extendable)",
+          "Desirable: The candidate should have knowledge of CAD software, mechanical Fabrication techniques and design and development of agricultural machinery"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics",
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology in Mechanical Engineering/ Agricultural Engineering/ Mechatronics/Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology from a recognized University or equivalent and 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics",
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters / Integrated Masters in Engineering or Technology in Mechanical Engineering/ Agricultural Engineering/ Mechatronics/Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:cc299ba08433",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": null,
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35 Years"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "2 years’ experience in Research and Development in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 28,000 + HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Bachelor’s degree in Engineering or Technology in"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate – II"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Project Associate-II under project MMP002503 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, through walk-in interview on 11.11.2026.",
+      "title": "Project Associate – II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:18:23.203Z",
+        "status": "partial",
+        "unsureFields": [
+          "pay",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:18:23.203Z",
+          "what": "Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T07:18:23.203Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Tenure up to 31/03/2027",
+          "Desirable: Working knowledge of CAD"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Agricultural Engineering",
+              "Mechanical Engineering"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "3 years Diploma in Agricultural Engineering / Mechanical Engineering from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:fbb5d6a16d67",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "Rs. 20000/-"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 20000/-"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "3 years Diploma in Agricultural Engineering /"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Assistant – II"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Project Assistant-II under project MMP015202/2/2 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, through walk-in interview on 11.11.2026.",
+      "title": "Project Assistant – II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:18:23.203Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Associate- II / PAT-II\" to \"Project Associate-II / PAT-II\"; Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Title changed from \"Project Associate-II / PAT-II\" to \"Project Associate- II / PAT-II\"; Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: experience in experimental heat transfer, heat transfer, machine design, CATIA 3D modelling and drafting"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical",
+              "Thermal Design"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical",
+              "Thermal Design"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:0d791bd4be74",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "₹28,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "09 35"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate- II /"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "09 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II (Mechanical/Aerospace/Aeronautical/Thermal Design) at CSIR-NAL, Bengaluru, on a temporary project basis.",
+      "title": "Project Associate- II / PAT-II",
+      "vacancies": 9,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "partial",
+        "unsureFields": [
+          "experience"
+        ]
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Pay details changed; Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Qualification cell for this row is not separately printed in the notice",
+          "Pay differs by NET/GATE status"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-nal:33ff957849fd",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹31,000/-+HRA with NET/GATE; ₹25,000/-+HRA without NET/GATE"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "01 35"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹31,000/-+HRA)"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I /"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I for metallurgical evaluation of materials, scanning electron microscopy and airworthiness-related metallurgical studies at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I with NET/GATE",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Associate- II (NET/GATE)\" to \"Project Associate-II (NET/GATE)\"; Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Title changed from \"Project Associate-II (NET/GATE)\" to \"Project Associate- II (NET/GATE)\"; Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Post is designated '(NET/GATE)' in title and pay grade; whether NET/GATE is essential is not separately stated",
+          "Desirable: Python, computer vision, deep learning, socket programming, edge computing, C/C++/MATLAB, Ardupilot/PX4"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:3d1aa29dd502",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 35000,
+        "text": "₹35,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE 01 35"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹35,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate- II"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II (Computer Science/ECE) for Python, computer vision, deep learning and camera gimbal control work at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate- II (NET/GATE)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "partial",
+        "unsureFields": [
+          "experience",
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Assistant-II/ PA-II (Any Stream)\" to \"Project Assistant-II / PA-II (Any Stream)\"; Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Title changed from \"Project Assistant-II / PA-II (Any Stream)\" to \"Project Assistant-II/ PA-II (Any Stream)\"; Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Qualification stated as 'Any Stream'",
+          "Photography & Videography with editing skills"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-nal:63b4eec9e704",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "₹20,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "Any Stream 01 35"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹20,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Any Stream"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Assistant-II/"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "Any Stream 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Assistant-II for photography and videography with editing skills at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-II/ PA-II (Any Stream)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Ardupilot/PX4 firmware, control system design, MATLAB/Simulink/Stateflow experience"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "CS",
+              "Instrumentation",
+              "Control"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR any equivalent qualifications duly recognized by the concerned authority."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:79ad0201fd35",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹25,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "09 35"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "09 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I (ECE/EEE/CS/Instrumentation/Control) for embedded systems, autopilot and aerospace sub-system R&D at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I",
+      "vacancies": 9,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Title changed from \"Senior PAT (Computer Science / ECE)\" to \"Senior PAT (Computer Science/ECE)\"; Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T07:08:53.167Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": null,
+          "text": "Bachelor's route: 3 years’ experience in R&D; Masters route: 2 years’ experience in R&D (as printed)"
+        },
+        "other": [
+          "Desirable: Python, embedded computing on NVIDIA/Raspberry boards, computer vision and deep learning, PX4 firmware"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology from a recognized University OR equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters in Engineering OR Technology from a recognized University and 2 years’ experience in Research and Development in Industrial and Academic Institutions OR Science and Technology Organizations and Scientific activities and services."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:8b190df9b26e",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "₹42,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE 01 40"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹42,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Bachelor's degree in Engineering or"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Senior PAT"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE 01 40"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Senior Project Associate (Computer Science/ECE) for Python, embedded computing on NVIDIA/Raspberry boards, and aerial imagery and deep learning work at CSIR-NAL, Bengaluru.",
+      "title": "Senior PAT (Computer Science/ECE)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:15:36.187Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "To develop hybrid process, derived ceramic nature composites; TGA, X-ray diffraction characterization of developed CMC"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:907a69b56585",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "₹28,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "Chemistry 01 35"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate- II /"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "Chemistry 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II in Chemistry to develop a hybrid process and characterize ceramic matrix composites (TGA, X-ray diffraction) at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate- II / PAT-II (Chemistry)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "partial",
+        "unsureFields": [
+          "experience"
+        ]
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": null,
+          "text": "Bachelor's route: 3 years’ experience in R&D; Masters route: 2 years’ experience in R&D (as printed)"
+        },
+        "other": [
+          "UAV pilot (fixed-wing and multirotor), UAV autopilot integration and GCS software experience"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology from a recognized University OR equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters in Engineering OR Technology from a recognized University and 2 years’ experience in Research and Development in Industrial and Academic Institutions OR Science and Technology Organizations and Scientific activities and services."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:b916876a0092",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "₹42,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "01 40"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "(₹42,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Bachelor's degree in Engineering or"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Senior PAT"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01 40"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Senior Project Associate (Mechanical/Aerospace/Aeronautical) to prepare UAV systems requirements documents and work on UAV pilot and integration tasks at CSIR-NAL, Bengaluru.",
+      "title": "Senior PAT",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:15:36.187Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Knowledge in computer programming; wiring instrumentation and sensor mounting"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Sc."
+            ],
+            "disciplines": [
+              "ECE",
+              "CS",
+              "IT"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Sc / 3 Years Diploma in Engg / Tech"
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "ECE",
+              "CS",
+              "IT"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "3 Years Diploma in Engg / Tech"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:cc3c8d273fc9",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "₹20,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE/CS/IT 03 35"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹20,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B.Sc / 3 Years Diploma in Engg /"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Assistant-II/"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE/CS/IT 03 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Assistant-II for wiring, instrumentation, sensor mounting and computer programming at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-II/ PA-II (ECE/CS/IT)",
+      "vacancies": 3,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Assistant-I/ PA-I\" to \"Project Assistant-I / PA-I\"; Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Title changed from \"Project Assistant-I / PA-I\" to \"Project Assistant-I/ PA-I\"; Pay details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Autoclave maintenance, operation, calibration etc"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Fitter"
+            ],
+            "level": "iti",
+            "minPercent": null,
+            "text": "SSC/10th plus ITI Fitter"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:d796d4c9a5ad",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "₹18,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "01 35"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "(₹18,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "SSC/10th plus ITI Fitter"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Assistant-I/"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Assistant-I to carry out autoclave maintenance, operation and calibration at CSIR-NAL, Bengaluru, on a temporary project basis.",
+      "title": "Project Assistant-I/ PA-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Title changed from \"Project Associate-I / PAT-I\" to \"Project Associate- I / PAT-I\"; Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: 1-2 years of Aerospace-relevant experience",
+          "Desirable: knowledge of fluid dynamics, aerodynamics; CATIA/Solidworks; Python, MATLAB"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR Any equivalent qualifications duly recognized by the concerned authority"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:df3b445cc3d2",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹25,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "13 35"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate- I /"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "13 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I (Mechanical/Aerospace/Aeronautical) to support a scientist in detail design engineering of a hydraulic system at CSIR-NAL, Bengaluru, on a temporary project basis.",
+      "title": "Project Associate- I / PAT-I",
+      "vacancies": 13,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        },
+        {
+          "at": "2026-11-10T07:15:36.187Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Metallurgical evaluation, metal working, metallography and material characterization"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Metallurgical Engineering",
+              "Physics",
+              "Materials Science",
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters from a recognized University"
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Metallurgical Engineering",
+              "Physics",
+              "Materials Science",
+              "Chemistry"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology in from a recognized University OR any equivalent qualifications duly recognized by the concerned authority"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:e26c7252211b",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹25,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "02 35"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Masters/Integrated Masters from a"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I/"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "02 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I (Metallurgical Engineering/Physics/Materials Science/Chemistry) for high temperature shape memory alloy R&D and metallurgical work at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:15:36.187Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:15:36.187Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Discipline cell also reads 'OR with 2 years’ experience'",
+          "Desirable: DAQ, LabVIEW, MATLAB/Simulink, antenna-radome EM analysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "Instrumentation",
+              "Control & Automation",
+              "Computer Science",
+              "RF",
+              "Microwave"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "Instrumentation",
+              "Control & Automation",
+              "Computer Science",
+              "RF",
+              "Microwave"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:f1fc08df8348",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "₹28,000/-+HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "05 35"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate- II /"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "05 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II in electronics, control and computer science for wind tunnel controls, DAQ, and aircraft control-law simulation at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate- II / PAT-II (ECE/EEE/Instrumentation/Control & Automation/Computer Science/RF/Microwave)",
+      "vacancies": 5,
+      "verification": {
+        "checkedAt": "2026-11-10T07:15:36.187Z",
+        "status": "partial",
+        "unsureFields": [
+          "experience"
+        ]
+      }
+    }
+  ]
+}

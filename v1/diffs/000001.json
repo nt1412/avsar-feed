@@ -1,0 +1,5616 @@
+{
+  "date": "2026-11-10",
+  "expire": [],
+  "generatedAt": "2026-11-10T07:04:03.399Z",
+  "prevSeq": 0,
+  "schemaVersion": 1,
+  "seq": 1,
+  "upserts": [
+    {
+      "advtNo": "12/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:02:12.882Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:02:12.882Z",
+        "lastDate": "2026-11-12",
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 28,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: GATE/NET-LS/DST-INSPIRE/GPAT or equivalent",
+          "Desirable: Good knowledge of Organic Chemistry",
+          "Tenure upto 31.03.2027"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Master Degree"
+            ],
+            "disciplines": [
+              "Chemistry",
+              "Chemical Sciences",
+              "Medicinal Chemistry",
+              "Pharmaceutical Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Candidates with a Master Degree in Chemistry/ Chemical Sciences/Medicinal Chemistry/Pharmaceutical Chemistry; candidate should have completed his/her master's degree in the year 2025-2026."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:b3080b29184a",
+      "kind": "internship",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/advt_12-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 12500,
+        "monthlyMin": 12500,
+        "text": "Rs. 12500/- p.m. consolidated"
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "28"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "12.11.2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Rs. 12500/- p.m."
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Candidates with a Master Degree in Chemistry/"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Research Intern"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "08 Positions"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Research Intern engagement under the CSIR-CDRI Research Internship Program (project CLP09007) at Lucknow, with tenure up to 31.03.2027.",
+      "title": "Research Intern",
+      "vacancies": 8,
+      "verification": {
+        "checkedAt": "2026-11-10T07:02:12.882Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "PAT 68/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:45:22.604Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T06:45:22.604Z",
+        "lastDate": "2026-11-16",
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years' experience in Research and Development in Industrial and Academic Institutions or Science & Technology Organisations"
+        },
+        "other": [
+          "Desirable: Experience in food analysis techniques and product development.",
+          "Only candidates who have already acquired the essential qualification and whose results have been declared are eligible; result awaited or final semester appeared candidates are not eligible.",
+          "Candidates who have completed a total of 6 years as Project Staff in CSIR labs/institutes are not eligible.",
+          "If already working in CSIR/CSIR-CFTRI, a NOC from the current PI is mandatory for applying."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Food Science and Technology",
+              "Food Science and Nutrition"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Sc. in Food Science and Technology / Food Science and Nutrition or equivalent from a recognized university"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:41a8e94c924d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://patcell.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/project-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-11/Advt%20No.%20PAT%2068.2026%20GAP667.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 28000,
+        "text": "(a) Rs. 35,000/- plus HRA for candidates who have qualified National Eligibility Tests (CSIR-UGC NET, GATE etc.); (b) Rs. 28,000/- plus HRA for others who do not fall under (a) above."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Candidates should not have exceeded 35 years of age as on the last date of"
+        },
+        "experience": {
+          "page": 1,
+          "snippet": "2 years' experience in Research and"
+        },
+        "lastDate": {
+          "page": 3,
+          "snippet": "on or before 16.11.2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(a)Rs. 35,000/- plus HRA for those"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "M. Sc. in Food Science"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Engagement to the position of Project Associate – II"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary contractual Project Associate-II post (post code GAP667) on the project 'Development of Highly Efficient Oxygen Scavenger Sachets Using Natural Rubber Silica Composites for Enhanced Food Preservation' at CSIR-CFTRI, Mysuru.",
+      "title": "Project Associate – II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:45:22.604Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T06:50:36.384Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (bachelor's route)"
+        },
+        "other": [
+          "Desirable: Programming knowledge in C/C++/Python for Image processing and AI applications in agriculture",
+          "Desirable: Working knowledge of Mechatronics/Robotics system design",
+          "Tenure: 31/03/2028 (Extendable)"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor's degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology",
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology in Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology/Mechanical Engineering/ Agricultural Engineering/ Mechatronics/ from a recognized University or equivalent and 2 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters / Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology",
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters / Integrated Masters in Engineering or Technology in Computer Science / Electronics and Communication Engineering / Electrical Engineering / Information Technology/Mechanical Engineering/ Agricultural Engineering/ Mechatronics from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:713715edeca9",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 28000,
+        "text": "(i) Rs. 35,000 + HRA* for those candidates who have qualified CSIR-UGC / ICAR / ICMR NET incl. lectureship/ assistant professorship or GATE OR those who have qualified National level examinations conducted by Central Government Departments like DBT/DST or equivalent and/ or their Agencies /Institutions. (ii) Rs. 28,000 + HRA* for others who do not fall under (i) above."
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "35 Years"
+        },
+        "experience": {
+          "page": 1,
+          "snippet": "experience in Research and Development in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Rs. 35,000 + HRA* for"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Bachelor’s degree in Engineering or Technology in"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate - II"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Project Associate-II (Post Code P701) engaged under Project No. MMP025303 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, Punjab, on a walk-in interview basis.",
+      "title": "Project Associate - II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:50:36.384Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T06:50:36.384Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years' experience for Project Associate - II; 3 years' experience for Senior-Project Associate (bachelor's route)"
+        },
+        "other": [
+          "Age limit: Senior-Project Associate 40 years; Project Associate - II 35 years",
+          "Desirable: Proficiency in mechanical design, CAD/CAE tools, experience in prototype development and engineering, and validation of agricultural machinery, OR programming knowledge in C/C++/Python for Image processing and AI applications in agriculture",
+          "Tenure: 31/03/2028 (Extendable)"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor's degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Agricultural",
+              "Mechatronics",
+              "Computer Science",
+              "Electronics"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "For Senior-Project Associate: Bachelor's degree in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University or equivalent and 3 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services."
+          },
+          {
+            "degrees": [
+              "Masters / Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Agricultural",
+              "Mechatronics",
+              "Computer Science",
+              "Electronics"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "For Senior-Project Associate: Masters / Integrated Masters in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics Engineering or Technology from a recognized University and 2 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services."
+          },
+          {
+            "degrees": [
+              "Bachelor's degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Agricultural",
+              "Mechatronics",
+              "Computer Science",
+              "Electronics"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "For Project Associate - II: Bachelor's degree in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University or equivalent and 2 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services."
+          },
+          {
+            "degrees": [
+              "Masters / Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Agricultural",
+              "Mechatronics",
+              "Computer Science",
+              "Electronics"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "For Project Associate - II: Masters / Integrated Masters in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:77a4bba19a96",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 28000,
+        "text": "For Senior-Project Associate: Rs. 42,000/- +HRA; For PAT- II: (i) Rs. 35,000 + HRA* for those candidates who have qualified CSIR-UGC / ICAR / ICMR NET incl. lectureship/ assistant professorship or GATE OR those who have qualified National level examinations conducted by Central Government Departments like DBT/DST or equivalent and/ or their Agencies /Institutions. (ii) Rs. 28,000 + HRA* for others who do not fall under (i) above."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Senior-Project Associate : 40 Years; PAT – II : 35 Years"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "experience in Research and Development in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 42,000/- +HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "For Senior-Project Associate :"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Senior-Project Associate Or Project Associate - II"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Senior-Project Associate or Project Associate-II (Post Code P702) engaged under Project No. MMP025303 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, Punjab, on a walk-in interview basis.",
+      "title": "Senior-Project Associate Or Project Associate - II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:50:36.384Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T06:50:36.384Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (bachelor's route)"
+        },
+        "other": [
+          "Desirable: knowledge of CAD software, mechanical Fabrication techniques and design and development of agricultural machinery",
+          "Tenure: 31/03/2028 (Extendable)"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor's degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics",
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology in Mechanical Engineering/ Agricultural Engineering/ Mechatronics/Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology from a recognized University or equivalent and 2 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters / Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical Engineering",
+              "Agricultural Engineering",
+              "Mechatronics",
+              "Computer Science and Engineering",
+              "Electronics and Communication Engineering",
+              "Electrical Engineering",
+              "Information Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters / Integrated Masters in Engineering or Technology in Mechanical Engineering/ Agricultural Engineering/ Mechatronics/Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:cc299ba08433",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": null,
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35 Years"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "experience in Research and Development in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 28,000 + HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Bachelor’s degree in Engineering or Technology in"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate – II"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Project Associate-II (Post Code P703) engaged under Project No. MMP002503 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, Punjab, on a walk-in interview basis.",
+      "title": "Project Associate – II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:50:36.384Z",
+        "status": "partial",
+        "unsureFields": [
+          "pay",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "CMERI/CoEFM/2026/04",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:50:36.384Z",
+        "interviewDate": "2026-11-11",
+        "lastChanged": "2026-11-10T06:50:36.384Z",
+        "lastDate": null,
+        "posted": "2026-10-28"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-11",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Working knowledge of CAD",
+          "Tenure: 31/03/2027"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "3 years Diploma"
+            ],
+            "disciplines": [
+              "Agricultural Engineering",
+              "Mechanical Engineering"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "3 years Diploma in Agricultural Engineering / Mechanical Engineering from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cmeri:fbb5d6a16d67",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.cmeri.res.in/vacancy",
+        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
+      },
+      "location": {
+        "city": "Ludhiana",
+        "state": "Punjab"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "Rs. 20000/-"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "11.11.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 20000/-"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "3 years Diploma in Agricultural Engineering /"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Assistant – II"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Durgapur",
+        "homepage": "https://www.cmeri.res.in/",
+        "id": "csir-cmeri",
+        "name": "CSIR-Central Mechanical Engineering Research Institute",
+        "parent": "CSIR",
+        "shortName": "CMERI",
+        "state": "West Bengal"
+      },
+      "summary": "Project Assistant-II (Post Code P704) engaged at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, Punjab, on a walk-in interview basis.",
+      "title": "Project Assistant – II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:50:36.384Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "TKDL/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:59:04.324Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T06:59:04.324Z",
+        "lastDate": null,
+        "posted": "2026-10-30"
+      },
+      "eligibility": {
+        "age": null,
+        "experience": null,
+        "other": [
+          "Prescribed qualifications and experience as stated in the detailed advertisement, which is not reproduced in this notice"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-hq:1452aefe6e12",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-10/pointer_tkdl_30102026_eng.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": null,
+      "provenance": {
+        "interviewDate": {
+          "page": 1,
+          "snippet": "The Walk-in-Interview is scheduled to be held on 12.11.2026"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate-I (PAT-I) (Forestry & Ecology)"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "No. of Position : 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Purely temporary project position under the project 'The Importance of Traditional Wisdom: Environmental Consciousness in Vedic and Other Literature and its Relevance for Modern Climate Strategies – A Brief Study (GAP-000001)' at the CSIR-TKDL Unit, New Delhi. Code TKEE01.",
+      "title": "Project Associate-I (PAT-I) (Forestry & Ecology)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:59:04.324Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "TKDL/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:59:04.324Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T06:59:04.324Z",
+        "lastDate": null,
+        "posted": "2026-10-30"
+      },
+      "eligibility": {
+        "age": null,
+        "experience": null,
+        "other": [
+          "Prescribed qualifications and experience as stated in the detailed advertisement, which is not reproduced in this notice"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-hq:3995d3d3d94a",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-10/pointer_tkdl_30102026_eng.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": null,
+      "provenance": {
+        "interviewDate": {
+          "page": 1,
+          "snippet": "The Walk-in-Interview is scheduled to be held on 12.11.2026"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate-I (PAT-I) (Environmental Sciences)"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "No. of Position : 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Purely temporary project position under the project 'The Importance of Traditional Wisdom: Environmental Consciousness in Vedic and Other Literature and its Relevance for Modern Climate Strategies – A Brief Study (GAP-000001)' at the CSIR-TKDL Unit, New Delhi. Code TKEE02.",
+      "title": "Project Associate-I (PAT-I) (Environmental Sciences)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:59:04.324Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": null,
+      "applyMode": "unknown",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:01:59.776Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:01:59.776Z",
+        "lastDate": "2026-11-30",
+        "posted": null
+      },
+      "eligibility": {
+        "age": null,
+        "experience": null,
+        "other": [],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-hq:3b71c89d6ec0",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/en/career-opportunities/recruitment/advertisement-post-director-csir-central-glass-and-ceramic"
+      },
+      "location": {
+        "city": "Kolkata",
+        "state": "West Bengal"
+      },
+      "pay": null,
+      "provenance": {
+        "lastDate": {
+          "page": null,
+          "snippet": "[Last Date: 30/11/2026]"
+        },
+        "title": {
+          "page": null,
+          "snippet": "Advertisement for the post of Director, CSIR- Central Glass and Ceramic Research Institute (CSIR-CGCRI), Kolkata [Last Date: 30/11/2026]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Recruitment advertisement for the post of Director at CSIR-Central Glass and Ceramic Research Institute (CSIR-CGCRI), Kolkata. The full advertisement is in a PDF that is not reproduced on this page.",
+      "title": "Director",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:01:59.776Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "05/2026",
+      "applyMode": "email",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:03:43.337Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:03:43.337Z",
+        "lastDate": "2026-11-30",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": null,
+          "max": 56,
+          "min": 45,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 16,
+          "text": "At least 16 years of experience in Research and Development (with focus on translational research) in the areas of activities of the laboratory/Institutes/Centre and demonstrated excellence in leadership therein."
+        },
+        "other": [
+          "Qualifications, age and experience can be relaxed for exceptionally meritorious candidates with the approval of DG, CSIR.",
+          "Should be creative, innovative and a well-recognized scientist/technologist with demonstrated ability to manage multidisciplinary R&D teams.",
+          "Significant contributions in technology development apart from creation of IP and publications.",
+          "Ph.D. desirable for engineering candidates."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Natural Sciences"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Ph.D. in Natural Sciences"
+          },
+          {
+            "degrees": [
+              "Master's Degree"
+            ],
+            "disciplines": [
+              "Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master’s Degree in Engineering (for Engineering Ph.D. is desirable)"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:ab226036a67a",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-10/advt_csir_cgcri_eng.pdf"
+      },
+      "location": {
+        "city": "Kolkata",
+        "state": "West Bengal"
+      },
+      "pay": {
+        "monthlyMax": 224100,
+        "monthlyMin": 182200,
+        "text": "Level 15 of Pay Matrix (Rs.1,82,200- 2,24,100) with allowances as admissible"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Age: 45 years or above but not exceeding 56 years."
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "Experience: At least 16 years of experience in Research and Development"
+        },
+        "lastDate": {
+          "page": 2,
+          "snippet": "The last date of the receipt of applications is 30th November, 2026."
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "level 15 of Pay Matrix (Rs.1,82,200- 2,24,100) with allowances as admissible"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Essential Qualifications: Ph.D. in Natural Sciences or Master’s Degree in Engineering"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Director of CSIR-Central Glass and Ceramic Research Institute (CSIR-CGCRI), Kolkata"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Head of CSIR-Central Glass and Ceramic Research Institute (CSIR-CGCRI) in Kolkata, responsible for the Institute's mission, staff administration and R&D direction. Appointment is for six years or till superannuation, whichever is earlier.",
+      "title": "Director, CSIR- Central Glass and Ceramic Research Institute (CSIR-CGCRI), Kolkata",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:03:43.337Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": null,
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:37.841Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T06:46:37.841Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": null,
+        "experience": null,
+        "other": [],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-hq:e3eb050f1a58",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/en/career-opportunities/recruitment/engagement-project-personnel-through-walk-interview-forestry"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": null,
+      "provenance": {
+        "interviewDate": {
+          "page": null,
+          "snippet": "Walk in Interview on 12/11/2026"
+        },
+        "title": {
+          "page": null,
+          "snippet": "Engagement of Project personnel through 'Walk in interview' in Forestry & Ecology and Environmental Sciences under Project GAP-000001"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Walk-in engagement of project personnel in Forestry & Ecology and Environmental Sciences under Project GAP-000001 at CSIR-TKDL Unit, New Delhi. The listing page does not give the posts, qualifications or pay; these are in the attached advertisement PDFs, which were not provided.",
+      "title": "Engagement of Project personnel through 'Walk in interview' in Forestry & Ecology and Environmental Sciences under Project GAP-000001",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:37.841Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Chemical Engineering experiments for reactor characterization and some level of python coding / instruments integration / algorithms development"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engg",
+              "Chemical Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Chemical Engg / Chemical Technology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:02c053c2f1bb",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+24%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+24%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B.Tech in Chemical Engg / Chemical Technology"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Open Loop, automated and reconfigurable platform for chemical reactor characterization' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Preferred six months experience in Organic Chemistry"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:0c38c0c20216",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "₹. 25,000+30%HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M. Sc. in Chemistry"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "04"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Process development for the Preparation of new generation Hydrofluoroolefine' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 4,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: GATE qualified (or) 6 months experience in R&D"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Environmental Engineering",
+              "Biochemical Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Chemical / Environmental/ Biochemical Engineering"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:0c93f70f6277",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 30000,
+        "monthlyMin": 30000,
+        "text": "₹. 30,000/- (consolidated)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 30,000/- (consolidated)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "B.Tech in Chemical / Environmental/ Biochemical Engineering"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Process development for preparation of cosmetic-grade cellulose powder and micro crystalline cellulose from sugarcane bagasse' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 50,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: experience in in-silico protein/enzyme engineering, rational mutation design, computational screening of enzyme variants, molecular dynamics simulations, protein structure prediction and computational biocatalysis; knowledge and hands-on experience in protein structure analysis, molecular docking, enzyme-substrate interaction studies and sequence analysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Biotechnology",
+              "Bioinformatics",
+              "Computational Biology",
+              "Biochemistry",
+              "Chemistry",
+              "Life Sciences or related field"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc./ B. Tech in Biotechnology/ Bioinformatics/ Computational Biology/ Biochemistry/ Chemistry/ Life Sciences or related field"
+          },
+          {
+            "degrees": [
+              "B. Tech"
+            ],
+            "disciplines": [
+              "Biotechnology",
+              "Bioinformatics",
+              "Computational Biology",
+              "Biochemistry",
+              "Chemistry",
+              "Life Sciences or related field"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "M.Sc./ B. Tech in Biotechnology/ Bioinformatics/ Computational Biology/ Biochemistry/ Chemistry/ Life Sciences or related field"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:131fa0729d0d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 37000,
+        "monthlyMin": 30000,
+        "text": "₹. 30,000+30%HRA (or) ₹. 37,000+30%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "50"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 30,000+30%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc./ B. Tech in Biotechnology/ Bioinformatics/ Computational Biology/"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "(PAT-I) (ANRF)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the ANRF-funded project 'Sustainable chemo-enzymatic synthesis of APIs and intermediates using transaminases and lipases' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I) (ANRF)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Organic Synthesis or Materials Science"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:1e98528c730e",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 25,000+30%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemistry"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Energy Harvesting Materials' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Catalysis (or) Aspen Plus / Hysis / MATLAB / Python"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B. Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Petro Chemical Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B. Tech in Chemical / Petro Chemical Engineering"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:211b0f1e3203",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B. Tech in Chemical / Petro Chemical Engineering"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Auto thermal vapor phase Catalytic Ammoxidation for Intensified Production of Nitriles' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in CO2 Capture & Catalysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:2c3aac678698",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. in Chemistry"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Intensified absorber configurations for CO2 capture from flue gases' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Working experience in IPR / Project / Technology Management / S&T Management etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Biological Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical/ Biological Sciences"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:4046541d2b9c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M.Sc. in Chemical/ Biological Sciences"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience in Research and Development in Industrial and Academic Institutional"
+        },
+        "other": [
+          "Desirable: Ph.D. submitted in Chemistry / Polymer Science / Chemical Engineering with experience in R&D in industrial and academic institutions / process development & scale up polymer processing"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc.",
+              "Integrated M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience in Research and Development in Industrial and Academic Institutional"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:58ccf7881018",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "₹. 42,000+ 27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 7,
+          "snippet": "40"
+        },
+        "experience": {
+          "page": 7,
+          "snippet": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 7,
+          "snippet": "₹. 42,000+ 27%HRA"
+        },
+        "qualification": {
+          "page": 7,
+          "snippet": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience"
+        },
+        "title": {
+          "page": 7,
+          "snippet": "Senior Project Associate"
+        },
+        "vacancies": {
+          "page": 7,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary senior project post under the sponsored project 'Sustainable process for production of biodegradable polymers from PET bottle scrap' at CSIR-IICT, Hyderabad.",
+      "title": "Senior Project Associate (Senior-PAT)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [],
+        "qualifications": [
+          {
+            "degrees": [
+              "B. Tech"
+            ],
+            "disciplines": [
+              "Computer Science"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B. Tech in Computer Science"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:602083c346df",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+24%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+24%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B. Tech in Computer Science"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the BDRM - Project Coordination Unit at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "B.Tech in Chemical / Environmental Engineering with 2 years’ experience"
+        },
+        "other": [
+          "Desirable: 2 years R&D Experience"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Environmental Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Tech in Chemical / Environmental Engineering"
+          },
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Environmental Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Chemical / Environmental Engineering with 2 years’ experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:6581e4c99dc8",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 6,
+          "snippet": "B.Tech in Chemical / Environmental Engineering with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 28,000+30%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "M. Tech in Chemical / Environmental Engineering"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post for the project 'Hydrodynamic cavitation assisted mechano-chemical process for precipitation of Nano-Silica from Rice Husk Ash' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D experience"
+        },
+        "other": [
+          "Desirable: 2 years’ experience in Synthetic Organic Chemistry"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:66c2198c6da5",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+27%HRA (or) ₹. 35,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 28,000+27%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Biochemistry",
+              "Biotechnology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Biochemistry/ Biotechnology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:7c351b1c2f2d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M.Sc. in Biochemistry/ Biotechnology"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the chemo-enzymatic synthesis of heterocyclic spirocyclic compounds project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in experimental set-up, gas-liquid reactions, CFD modeling for reactive flow / process simulations modelling on ASPEN; experience in software such as COMSOL, STAR-CCM+ etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B. Tech",
+              "B.E."
+            ],
+            "disciplines": [
+              "Chemical",
+              "Petrochemical Engg",
+              "Chemical Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B. Tech / B.E. in Chemical / Petrochemical Engg / Chemical Technology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:83be4e4a15a0",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B. Tech / B.E. in Chemical / Petrochemical Engg / Chemical Technology"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Intensified absorber configurations for CO2 capture from flue gases' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Strong interest in computational materials and/or chemistry; previous experience in molecular/materials simulations is preferred"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc.",
+              "BS-MS"
+            ],
+            "disciplines": [
+              "Chemistry",
+              "Chemical Sciences",
+              "Physics",
+              "Physical Science"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. or BS-MS in Chemistry / Chemical Sciences / Physics / Physical Science"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:8b755e7a8886",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. or BS-MS in Chemistry / Chemical Sciences / Physics / Physical"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'AI-Guided workflows for Multi-Scale Design and Discovery of Functional Materials' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: One year experience in Pharmacology and Cell Culture"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Pharmacology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Pharmacology from Recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:901e4e68dcf4",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+30%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Pharmacology from Recognized University"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Licensing of Patent related to topical formulation for dermal disorders' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "qualification",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "B.Tech / B.E. in Chemical / Petrochemical Engg. / Chemical Technology with 3 years of experience (OR) M.Tech in Chemical Engineering with 2 years of experience"
+        },
+        "other": [
+          "Desirable: Ph.D. in Engineering Sciences; experience in experimental set-up, gas-liquid reactions, CFD modeling for reactive flow / process simulations modelling on ASPEN; experience in software such as COMSOL, STAR-CCM+ etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech",
+              "B.E."
+            ],
+            "disciplines": [
+              "Chemical Engg.",
+              "Petrochemical Engg.",
+              "Chemical Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech / B.E. in Chemical / Petrochemical Engg. / Chemical Technology with 3 years of experience"
+          },
+          {
+            "degrees": [
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Tech in Chemical Engineering with 2 years of experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:9eab9f2f09a2",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "₹. 42,000+ 27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 7,
+          "snippet": "40"
+        },
+        "experience": {
+          "page": 7,
+          "snippet": "with 3 years of experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 7,
+          "snippet": "₹. 42,000+ 27%HRA"
+        },
+        "qualification": {
+          "page": 7,
+          "snippet": "B.Tech / B.E. in Chemical / Petrochemical Engg. / Chemical Technology"
+        },
+        "title": {
+          "page": 7,
+          "snippet": "Senior Project Associate"
+        },
+        "vacancies": {
+          "page": 7,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary senior project post under the sponsored project 'Development of Intensified absorber configurations for CO2 capture from flue gases' at CSIR-IICT, Hyderabad.",
+      "title": "Senior Project Associate (Senior-PAT)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Catalysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:a5053eb094e4",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M. Sc. in Chemistry"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Auto thermal vapor phase Catalytic Ammoxidation for Intensified Production of Nitriles' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Catalysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:a8e602b98eb7",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M.Sc. in Chemistry"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'From Shellfish Waste to Health-Promoting Sugar' (chitin to glucosamine process) at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: 2 years’ experience on Animal Experiment"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Pharm"
+            ],
+            "disciplines": [
+              "Pharmacology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Pharm in Pharmacology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:d197a7f36a6a",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M. Pharm in Pharmacology"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 3,
+          "text": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+        },
+        "other": [
+          "Desirable: Ph.D. in Chemical Science / Physics / Material with research experience in publications / patents / device fabrication / solar cells"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Science",
+              "Physics",
+              "Material"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:e2f00fe3e183",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 45000,
+        "monthlyMin": 45000,
+        "text": "₹. 45,000/- (Consolidated)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "40"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 45,000/- (Consolidated)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Senior Project Associate"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary senior project post under the sponsored project 'Development of Energy Harvesting Materials' at CSIR-IICT, Hyderabad.",
+      "title": "Senior Project Associate (Senior-PAT)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "B.Tech in Mechanical/ Chemical/ Civil/ Electronics/ Electrical/ Safety/ Fire Safety Engineering with 2 years’ experience"
+        },
+        "other": [
+          "Desirable: 2 years’ experience in safety management at industry / research laboratories / construction / academic institutions etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Chemical",
+              "Civil",
+              "Electronics",
+              "Electrical",
+              "Safety",
+              "Fire Safety Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Mechanical/ Chemical/ Civil/ Electronics/ Electrical/ Safety/ Fire Safety Engineering with 2 years’ experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:e53d5fd0e883",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+24%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 7,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 7,
+          "snippet": "Fire Safety Engineering with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 7,
+          "snippet": "₹. 28,000+24%HRA"
+        },
+        "qualification": {
+          "page": 7,
+          "snippet": "Fire Safety Engineering with 2 years’ experience"
+        },
+        "title": {
+          "page": 7,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 7,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post for the project 'Safety Management in CSIR-IICT' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: 6 months R&D experience"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical or Pharmaceutical Sciences"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:eac800b04e0c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemical or Pharmaceutical Sciences"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Chemical Sciences and Technologies for Health, Agriculture and Environment (CSTHAE)' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+        },
+        "other": [
+          "Desirable: Experience in IPR / Project Management / Technology Transfer / Agreement or MoU Drafting / S&T Management etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Biological Sciences",
+              "Pharma"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:ec6c4861d7f6",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+27%HRA (or) ₹. 35,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 5,
+          "snippet": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 28,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Organic Synthesis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Pharma"
+            ],
+            "disciplines": [],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Pharma"
+          },
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Organic Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Organic Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:fda0f2dfd3c0",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M. Pharma / M.Sc. in Organic Chemistry"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Gram Scale Synthesis of ACMB and K-Acid of CTPR' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T06:51:52.868Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience / Knowledge on IPR"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry",
+              "Bio-Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry / Bio-Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:ff0fa719071d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1793966050.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. in Chemistry / Bio-Chemistry"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Chemical Sciences and Technologies for Health, Agriculture and Environment (CSTHAE)' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development (bachelor’s route only)"
+        },
+        "other": [
+          "Desirable: experimental heat transfer, heat transfer and machine design, CATIA 3D modelling and drafting, CFD and mesh generation"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor’s degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical",
+              "Thermal Design"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters/Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical",
+              "Thermal Design"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:0d791bd4be74",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "(₹28,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "09 35"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "years’ experience in Research and"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "Date of Interview : 12/11/2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate- II /"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "09 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II for detailed design and engineering work in mechanical, aerospace, aeronautical and thermal design at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate- II / PAT-II",
+      "vacancies": 9,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Higher pay of ₹31,000 applies with NET/GATE; ₹25,000 without NET/GATE",
+          "Essential qualification for this row is not separately stated in the notice"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-nal:33ff957849fd",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "(₹31,000/-+HRA) with NET/GATE; (₹25,000/-+HRA) without NET/GATE"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "01 35"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date of Interview : 16/11/2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹31,000/-+HRA)"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I /"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I for metallurgical evaluation of materials, scanning electron microscopy and metallurgical studies for airworthiness qualification at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I with NET/GATE",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development (bachelor’s route only)"
+        },
+        "other": [
+          "Additional: programming in C, C++, MATLAB; experience with Ardupilot/PX4 firmware"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor’s degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters/Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:3d1aa29dd502",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 35000,
+        "text": "(₹35,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE 01 35"
+        },
+        "experience": {
+          "page": 6,
+          "snippet": "years’ experience in Research and"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date of Interview : 23/11/2026"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹35,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate- II"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II (NET/GATE) for Python, computer vision, deep learning and embedded camera gimbal control work at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate- II (NET/GATE)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development (bachelor’s route only)"
+        },
+        "other": [
+          "Job profile: develop hybrid process for ceramic composites; characterization by TGA and X-ray diffraction"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor’s degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters/Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:62f37c24409c",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "(₹28,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "Chemistry 01 35"
+        },
+        "experience": {
+          "page": 4,
+          "snippet": "years’ experience in Research and"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date of Interview : 16/11/2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate- II /"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "Chemistry 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II for ceramic matrix composite process development and TGA/XRD characterization in chemistry at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate- II / PAT-II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Stream: Any Stream",
+          "Photography and videography skills with editing"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-nal:63b4eec9e704",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "(₹20,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "Any Stream 01 35"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date of Interview : 23/11/2026"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹20,000/-+HRA)"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Assistant-II/"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "Any Stream 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Assistant-II for photography and videography with editing skills at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-II/ PA-II (Any Stream)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Knowledge in computer programming"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Sc"
+            ],
+            "disciplines": [
+              "ECE",
+              "CS",
+              "IT"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Sc / 3 Years Diploma in Engg / Tech (ECE/CS/IT)"
+          },
+          {
+            "degrees": [
+              "3 Years Diploma in Engg / Tech"
+            ],
+            "disciplines": [
+              "ECE",
+              "CS",
+              "IT"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "B.Sc / 3 Years Diploma in Engg / Tech (ECE/CS/IT)"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:74f7d587be60",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "(₹20,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE/CS/IT 03 35"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date of Interview : 23/11/2026"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹20,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B.Sc / 3 Years Diploma in Engg /"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Assistant-II/"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE/CS/IT 03 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Assistant-II for wiring, instrumentation and sensor mounting, with computer programming knowledge, at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-II/ PA-II",
+      "vacancies": 3,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Experience with Ardupilot/PX4 firmware, control system design, MATLAB/Simulink/Stateflow, and virtual lab content design are listed as job requirements"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor’s degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "CS",
+              "Instrumentation",
+              "Control"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR any equivalent qualifications duly recognized by the concerned authority."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:79ad0201fd35",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "(₹25,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "09 35"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date of Interview : 23/11/2026"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "09 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I for microcontroller, embedded systems, autopilot and aerospace sub-system development at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I",
+      "vacancies": 9,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development (bachelor’s route only)"
+        },
+        "other": [
+          "Model based design of control laws for aircraft; real-time and non-real-time simulation; MATLAB/Simulink knowledge"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor’s degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "Instrumentation",
+              "Control & Automation",
+              "Computer Science",
+              "RF",
+              "Microwave"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters/Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "Instrumentation",
+              "Control & Automation",
+              "Computer Science",
+              "RF",
+              "Microwave"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:b6407888b0fb",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "(₹28,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "05 35"
+        },
+        "experience": {
+          "page": 5,
+          "snippet": "years’ experience in Research and"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date of Interview : 23/11/2026"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate- II /"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "05 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-II for wind tunnel controls, DAQ, LabVIEW and aircraft control-law simulation at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate- II / PAT-II",
+      "vacancies": 5,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "3 years’ experience (bachelor’s route) or 2 years’ experience (masters route) in Research and Development"
+        },
+        "other": [
+          "UAV pilot experience (fixed-wing and multirotor); knowledge of UAV sub-systems, autopilot integration and GCS software; troubleshooting UAV components; preparing UAV systems requirements document"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor's degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology from a recognized University OR equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters/Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering OR Technology from a recognized University and 2 years’ experience in Research and Development in Industrial and Academic Institutions OR Science and Technology Organizations and Scientific activities and services"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:b916876a0092",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "(₹42,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "01 40"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "years’ experience in Research and"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "Date of Interview : 12/11/2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "(₹42,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Bachelor's degree in Engineering or"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Senior PAT"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01 40"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Senior Project Associate for UAV systems requirements and UAV pilot and integration work at CSIR-NAL, Bengaluru.",
+      "title": "Senior PAT",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [],
+        "qualifications": [
+          {
+            "degrees": [
+              "ITI"
+            ],
+            "disciplines": [
+              "Fitter"
+            ],
+            "level": "iti",
+            "minPercent": null,
+            "text": "SSC/10th plus ITI Fitter"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:d796d4c9a5ad",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "(₹18,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "01 35"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "Date of Interview : 12/11/2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "(₹18,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "SSC/10th plus ITI Fitter"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Assistant-I/"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Assistant-I to carry out autoclave maintenance, operation and calibration at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-I/ PA-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: 1-2 years of Aerospace-relevant experience; knowledge of fluid dynamics and aerodynamics; CATIA/Solidworks 3D CAD and drafting; wind tunnel experience; Python/MATLAB programming"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor’s degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR any equivalent qualifications duly recognized by the concerned authority"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:df3b445cc3d2",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "(₹25,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "13 35"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "Date of Interview : 12/11/2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate- I /"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "13 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I to support a scientist in detailed design engineering of a hydraulic system, with mechanical design, CAD and FEA work, at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I",
+      "vacancies": 13,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Job profile includes metal working, metallography and material characterization"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Masters/Integrated Masters"
+            ],
+            "disciplines": [
+              "Metallurgical Engineering",
+              "Physics",
+              "Materials Science",
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters from a recognized University"
+          },
+          {
+            "degrees": [
+              "Bachelor’s degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Metallurgical Engineering",
+              "Physics",
+              "Materials Science",
+              "Chemistry"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR any equivalent qualifications duly recognized by the concerned authority"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:e26c7252211b",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "(₹25,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "02 35"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date of Interview : 16/11/2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Masters/Integrated Masters from a"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I/"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "02 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Project Associate-I for design and analysis of metasurfaces and high-temperature shape memory alloy R&D at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T06:46:59.438Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "3 years’ experience (bachelor’s route) or 2 years’ experience (masters route) in Research and Development"
+        },
+        "other": [
+          "Desirable: PX4 firmware and integration; Python, NVIDIA/Raspberry boards, GUI development; hyperspectral imagery processing; computer vision and deep learning for crop and pest classification"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Bachelor's degree in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology from a recognized University OR equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Masters/Integrated Masters in Engineering or Technology"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering OR Technology from a recognized University and 2 years’ experience in Research and Development in Industrial and Academic Institutions OR Science and Technology Organizations and Scientific activities and services"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:e82d49ad5193",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.nal.res.in",
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "(₹42,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE 01 40"
+        },
+        "experience": {
+          "page": 6,
+          "snippet": "years’ experience in Research and"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date of Interview : 23/11/2026"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹42,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Bachelor's degree in Engineering or"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Senior PAT"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE 01 40"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Senior Project Associate for Python embedded computing, aerial imagery processing and computer vision for crop classification at CSIR-NAL, Bengaluru.",
+      "title": "Senior PAT",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:46:59.438Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    }
+  ]
+}

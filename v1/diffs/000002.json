@@ -1,0 +1,2821 @@
+{
+  "date": "2026-11-10",
+  "expire": [],
+  "generatedAt": "2026-11-10T07:14:28.159Z",
+  "prevSeq": 1,
+  "schemaVersion": 1,
+  "seq": 2,
+  "upserts": [
+    {
+      "advtNo": "1026/B",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:06:34.491Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:06:34.491Z",
+        "lastDate": "2026-11-10",
+        "posted": "2026-11-03"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-10",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": null,
+          "text": "Prior experience in Cell culture, embryo culture and fluorescence microscopy is essential."
+        },
+        "other": [
+          "Desirable: work in cell biology, embryology and reproductive biology; perform cell biology and microscopy",
+          "Project duration until 31st March 2029",
+          "Age relaxation as per CSIR/Govt. of India guidelines"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Biotechnology",
+              "Life sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Post-graduate degree including the integrated PG degrees in Biotechnology or Life sciences"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:11c4ffe9724d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.ccmb.res.in",
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/1026B-_Notification.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 56000,
+        "monthlyMin": 56000,
+        "text": "Rs. 56,000 + HRA (as applicable)"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Upper Age limit (years): 35"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "Prior experience in Cell culture, embryo culture and fluorescence microscopy is essential."
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "Last date to submit application through online: 10th November 2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Monthly Emoluments: Rs. 56,000 + HRA (as applicable)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Post-graduate degree including the integrated PG degrees in Biotechnology or Life sciences"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Research Scientist- I (Non-medical)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "Post code/ No. of"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Temporary contractual project post in mouse embryology and reproductive biology (project GAP000678, PI Dr. P Chandra Shekar) at CCMB, Hyderabad.",
+      "title": "Project Research Scientist- I (Non-medical)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:06:34.491Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "1026/B",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:06:34.491Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:06:34.491Z",
+        "lastDate": "2026-11-10",
+        "posted": "2026-11-03"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-10",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 3,
+          "text": "BTech four year degree with THREE years experience"
+        },
+        "other": [
+          "Desirable: virology (handling human viruses in BSL-2/3 set up), advanced microscopy, cell biology, molecular biology techniques",
+          "Project duration until April 01, 2029",
+          "Age relaxation as per CSIR/Govt. of India guidelines"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Post-graduate degree including the integrated PG degree"
+          },
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "BTech four year degree with THREE years experience"
+          },
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Life sciences"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "PhD in Life sciences."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:1438ef2c61fb",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.ccmb.res.in",
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/1026B-_Notification.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 67000,
+        "monthlyMin": 67000,
+        "text": "Rs. 67,000/- + 30 % HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Upper Age limit (years): 40"
+        },
+        "experience": {
+          "page": 1,
+          "snippet": "four year degree with THREE years experience"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "Last date to submit application through online: 10th November 2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Monthly Emoluments: Rs. 67,000/- + 30 % HRA"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "PhD in Life sciences."
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Research Scientist- II (Non-Medical)"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "Total Number of positions: 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Temporary contractual project post in Virology (project GAP000634, PI Dr. H H Krishnan) at CCMB, Hyderabad.",
+      "title": "Project Research Scientist- II (Non-Medical)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:06:34.491Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "1026/B",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:06:34.491Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:06:34.491Z",
+        "lastDate": "2026-11-10",
+        "posted": "2026-11-03"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-10",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: at least one year of experience in Molecular Biology techniques and animal handling",
+          "Project duration until 27th April, 2029",
+          "Age relaxation as per CSIR/Govt. of India guidelines"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "life sciences",
+              "natural sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master’s degree in life sciences or natural sciences"
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering or Technology",
+              "Medicine"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s Degree in Engineering or Technology or Medicine from a recognized University or equivalent"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:23b41181db33",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.ccmb.res.in",
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/1026B-_Notification.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "i) 31,000/- p.m. + 30% HRA to Scholars selected through NET/CSIR-UGC NET, GATE or a national-level central government selection; ii) 25,000/- p.m. + 30% HRA for others"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Upper Age limit (years): 35"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "Last date to submit application through online: 10th November 2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Monthly Emoluments: i) 31,000/- p.m. + 30% HRA to Scholars"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Master’s degree in life sciences or natural sciences"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate- I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "041026B - 01 Position – Molecular biology and Neuroscience"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "One of four Project Associate-I posts in Molecular biology and Neuroscience (project GAP000681, PI Dr Ishwariya Venkatesh) at CCMB, Hyderabad.",
+      "title": "Project Associate- I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:06:34.491Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "1026/B",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:06:34.491Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:06:34.491Z",
+        "lastDate": "2026-11-10",
+        "posted": "2026-11-03"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-10",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 3,
+          "text": "3 years post qualification experience in molecular or cell biology"
+        },
+        "other": [
+          "Desirable: hands-on experience of cell culture, gene cloning, recombinant protein expression and purification, molecular biology techniques, and protein biochemistry",
+          "Project duration until 2nd February, 2028",
+          "Age relaxation as per CSIR/Govt. of India guidelines"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "life sciences"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in life sciences plus 3 years post qualification experience in molecular or cell biology"
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "life sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters degree in life sciences"
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Biotechnology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Four years bachelor’s degree in Biotechnology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:44f694afc75f",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.ccmb.res.in",
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/1026B-_Notification.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "Rs. 28000 + 30% HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "Upper Age limit (years): 35"
+        },
+        "experience": {
+          "page": 4,
+          "snippet": "3 years post qualification experience in molecular or cell biology"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "Last date to submit application through online: 10th November 2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "Monthly Emoluments: Rs. 28000 + 30% HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Bachelor’s degree in life sciences plus 3 years post qualification experience in molecular or cell biology"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Technical Support- III (PTS- III)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "071026B - 01 Position – Parasitology, Cell Biology, Protein chemistry"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Temporary contractual technical support post on project GAP000654 (PI Dr. Puran Singh Sijwali) at CCMB, Hyderabad.",
+      "title": "Project Technical Support- III (PTS- III)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:06:34.491Z",
+        "status": "partial",
+        "unsureFields": [
+          "experience"
+        ]
+      }
+    },
+    {
+      "advtNo": "1026/B",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:06:34.491Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:06:34.491Z",
+        "lastDate": "2026-11-10",
+        "posted": "2026-11-03"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-10",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: familiarity with Linux and command line scripting such as bash; programming in languages like R, Python",
+          "Desirable: experience with handling NGS data sets of Metagenomics, Genomics, etc.",
+          "Project duration until March 31, 2030",
+          "Age relaxation as per CSIR/Govt. of India guidelines"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Natural Sciences",
+              "Bioinformatics"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master’s Degree in Natural Sciences/ Bioinformatics"
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering or Technology",
+              "Medicine"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology or Medicine from a recognized University or equivalent"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:d40be59e205c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.ccmb.res.in",
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/1026B-_Notification.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "i) 31,000/- p.m. + 30% HRA to Scholars selected through NET/CSIR-UGC NET, GATE or a national-level central government selection; ii) 25,000/- p.m. + 30% HRA for others"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Upper Age limit (years): 35"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "Last date to submit application through online: 10th November 2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Monthly Emoluments: i) 31,000/- p.m. + 30% HRA to Scholars"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Master’s Degree in Natural Sciences/ Bioinformatics"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate- I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "051026B - 01 Position – Bioinformatics"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "One of four Project Associate-I posts in Bioinformatics (CSIR Integrated Skill Initiative project HCP002502, PI Dr. Archana B Siva) at CCMB, Hyderabad.",
+      "title": "Project Associate- I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:06:34.491Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "qualification"
+        ]
+      }
+    },
+    {
+      "advtNo": "1026/B",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:06:34.491Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:06:34.491Z",
+        "lastDate": "2026-11-10",
+        "posted": "2026-11-03"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-10",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: experience in protein expression, biochemistry, yeast and bacterial work, cell culture handling, molecular biology",
+          "Project duration until March 31, 2028",
+          "Age relaxation as per CSIR/Govt. of India guidelines"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Natural Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master’s Degree in Natural Sciences from a recognized University or equivalent with NET/ GATE qualification"
+          }
+        ],
+        "requiredExams": [
+          "NET",
+          "GATE"
+        ]
+      },
+      "id": "csir-ccmb:d4b07e02a9b3",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.ccmb.res.in",
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/1026B-_Notification.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "i) 31,000/- p.m. + 30% HRA to Scholars selected through NET/CSIR-UGC NET, GATE or a national-level central government selection; ii) 25,000/- p.m. + 30% HRA for others"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Upper Age limit (years): 35"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "Last date to submit application through online: 10th November 2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Monthly Emoluments: i) 31,000/- p.m. + 30% HRA to Scholars"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Master’s Degree in Natural Sciences from a recognized University or equivalent with NET/ GATE qualification"
+        },
+        "requiredExams": {
+          "page": 3,
+          "snippet": "with NET/ GATE qualification"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate- I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "061026B - 01 Position – Structural and Molecular Biology"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "One of four Project Associate-I posts in Structural and Molecular Biology (project FIR070404, PI Dr. R Sankaranarayanan) at CCMB, Hyderabad.",
+      "title": "Project Associate- I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:06:34.491Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "qualification",
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "1026/B",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:06:34.491Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:06:34.491Z",
+        "lastDate": "2026-11-10",
+        "posted": "2026-11-03"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-10",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: hands-on experience of cell culture, recombinant protein expression and purification, molecular biology techniques, and protein biochemistry",
+          "Desirable: NET/UGC JRF, NET/UGC Lectureship or GATE (>85% percentile)",
+          "Project duration until 17th October, 2027",
+          "Age relaxation as per CSIR/Govt. of India guidelines"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "biological Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master’s degree in biological Sciences"
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering or Technology",
+              "Medicine"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s Degree in Engineering or Technology or Medicine from a recognized University or equivalent"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:da8d37713ddb",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.ccmb.res.in",
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/1026B-_Notification.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "i) 31,000/- p.m. + 30% HRA to Scholars selected through NET/CSIR-UGC NET, GATE or a national-level central government selection; ii) 25,000/- p.m. + 30% HRA for others"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Upper Age limit (years): 35"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "Last date to submit application through online: 10th November 2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Monthly Emoluments: i) 31,000/- p.m. + 30% HRA to Scholars"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Master’s degree in biological Sciences"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate- I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "031026B - 01 Position – Parasitology, Cell Biology, Protein chemistry"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "One of four Project Associate-I posts in Parasitology and Cell Biology (project GAP000648, PI Dr(s). Puran Singh Sijwali and Saikat Chowdhury) at CCMB, Hyderabad.",
+      "title": "Project Associate- I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:06:34.491Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies"
+        ]
+      }
+    },
+    {
+      "advtNo": "TKDL/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:20.800Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:59:04.324Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:08:20.800Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in field surveys, resource mapping, monitoring ecological indicators, development of conservation and management strategies for natural resources.",
+          "Walk-in interview at CSIR-TKDL Unit, 14, Satsang Vihar Marg, New Delhi, reporting 12 November 2026, 9:30 AM – 10:30 AM.",
+          "Contract up to 15 January 2027 or co-terminus with project; cumulative CSIR project tenure must not exceed six years.",
+          "Age limit relaxable for reserved/statutory categories as per CSIR/Govt. of India rules."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Natural Sciences",
+              "Forestry/Ecology",
+              "related fields"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Essential Qualification: Master’s/Integrated Master’s Degree in Natural Sciences or Forestry/Ecology or related fields from recognized University or equivalent."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:1452aefe6e12",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.csir.res.in",
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-10/advt-tkdl_30102026.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "(i) Rs. 31,000/-+ HRA for candidates who have qualified CSIR UGC/ICAR/ICMR/NET incl. lectureship/assistant professorship or GATE, or National Level examinations conducted by Central Government Departments like DBT/DST or equivalent; (ii) Rs. 25,000/-+HRA for others. HRA is payable in addition, as per extant Government of India rules applicable to CSIR employees."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Age Limit: 35 years."
+        },
+        "interviewDate": {
+          "page": 3,
+          "snippet": "interview on November 12, 2026."
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 31,000/-+ HRA for those candidates"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Essential Qualification: Master’s/Integrated Master’s Degree in Natural Sciences or"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Post Code TKEE01: PAT-I (Forestry & Ecology)"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "01 12 November 2026"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Project Associate-I (Code TKEE01) engaged on the project GAP-000001 at CSIR-TKDL Unit, New Delhi, on a purely temporary contract co-terminus with the project. Work involves data compilation linking traditional knowledge on agriculture, forestry and ecology with modern sciences, and assistance in report preparation.",
+      "title": "Project Associate-I (PAT-I) (Forestry & Ecology)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:20.800Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "TKDL/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:20.800Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:59:04.324Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:08:20.800Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in handling environmental monitoring /climate change related project activities will be preferred.",
+          "Walk-in interview at CSIR-TKDL Unit, 14, Satsang Vihar Marg, New Delhi, reporting 12 November 2026, 9:30 AM – 10:30 AM.",
+          "Contract up to 15 January 2027 or co-terminus with project; cumulative CSIR project tenure must not exceed six years.",
+          "Age limit relaxable for reserved/statutory categories as per CSIR/Govt. of India rules."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Environmental Sciences",
+              "Environmental Management",
+              "Environmental Studies",
+              "Environmental Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Essential Qualification: Masters/Integrated Master’s Degree in Environmental Sciences/ Environmental Management/ Environmental Studies/Environmental Engineering from recognized University or equivalent."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:3995d3d3d94a",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.csir.res.in",
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-10/advt-tkdl_30102026.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "(i) Rs. 31,000/-+ HRA for candidates who have qualified CSIR UGC/ICAR/ICMR/NET incl. lectureship/assistant professorship or GATE, or National Level examinations conducted by Central Government Departments like DBT/DST or equivalent; (ii) Rs. 25,000/-+HRA for others. HRA is payable in addition, as per extant Government of India rules applicable to CSIR employees."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "Age Limit: 35 years."
+        },
+        "interviewDate": {
+          "page": 3,
+          "snippet": "interview on November 12, 2026."
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 31,000/-+ HRA for those candidates"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Masters/Integrated Master’s Degree in Environmental"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Post Code TKEE02: PAT-I (Environmental Sciences)"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "01 12 November 2026"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Project Associate-I (Code TKEE02) engaged on the project GAP-000001 at CSIR-TKDL Unit, New Delhi, on a purely temporary contract co-terminus with the project. Work involves establishing correlation between traditional knowledge and modern sciences to mitigate environmental challenges.",
+      "title": "Project Associate-I (PAT-I) (Environmental Sciences)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:20.800Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": null,
+      "applyMode": "unknown",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:12:58.143Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T07:12:58.143Z",
+        "lastDate": "2026-11-30",
+        "posted": null
+      },
+      "eligibility": {
+        "age": null,
+        "experience": null,
+        "other": [],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-hq:3e77e1028958",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/en/career-opportunities/recruitment/advertisement-post-director-csir-national-chemical-laboratory-csir"
+      },
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra"
+      },
+      "pay": null,
+      "provenance": {
+        "lastDate": {
+          "page": null,
+          "snippet": "[Last Date: 30/11/2026]"
+        },
+        "title": {
+          "page": null,
+          "snippet": "Advertisement for the post of Director, CSIR- National Chemical Laboratory (CSIR-NCL), Pune [Last Date: 30/11/2026]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Advertisement inviting applications for the post of Director of CSIR-National Chemical Laboratory (CSIR-NCL), Pune. The full terms are in a PDF that is not included in this page text.",
+      "title": "Director, CSIR- National Chemical Laboratory (CSIR-NCL), Pune",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:12:58.143Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Associate- II / PAT-II\" to \"Project Associate-II / PAT-II\"; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (with bachelor’s degree)"
+        },
+        "other": [
+          "Desirable: experimental heat transfer, heat transfer, machine design, CATIA 3D modelling and drafting, UAV pilot and autopilot integration skills"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical",
+              "Thermal Design"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical",
+              "Thermal Design"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:0d791bd4be74",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "(₹28,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "09 35"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "years’ experience in Research and"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "PAT-II"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "09 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post in Mechanical, Aerospace, Aeronautical or Thermal Design at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-II / PAT-II",
+      "vacancies": 9,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Pay details changed; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Pay differs with and without NET/GATE; qualification details not printed against this row; scanning electron microscopy; metallurgical studies related to airworthiness qualification"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-nal:33ff957849fd",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹31,000/-+HRA with NET/GATE; ₹25,000/-+HRA without NET/GATE"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "01 35"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹31,000/-+HRA)"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "PAT-I with NET/GATE"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post on metallurgical evaluation of materials and airworthiness qualification studies at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I with NET/GATE",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Associate- II (NET/GATE)\" to \"Project Associate-II (NET/GATE)\"; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development (with bachelor’s degree)"
+        },
+        "other": [
+          "NET/GATE appears in the post title; Python, computer vision, deep learning, socket programming, edge computing; C, C++, MATLAB; Ardupilot/PX4 firmware"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:3d1aa29dd502",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 35000,
+        "text": "(₹35,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE 01 35"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹35,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Masters/Integrated Masters in"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "(NET/GATE)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post in Computer Science or ECE for Python, computer vision, deep learning and edge computing work at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-II (NET/GATE)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Associate- II / PAT-II\" to \"Project Associate-II / PAT-II\"; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development (with bachelor’s degree)"
+        },
+        "other": [
+          "TGA, X-ray diffraction characterization of developed CMC"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent and 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:62f37c24409c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "(₹28,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "Chemistry 01 35"
+        },
+        "experience": {
+          "page": 4,
+          "snippet": "years’ experience in Research and"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "PAT-II"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "Chemistry 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post in Chemistry for hybrid process development and ceramic matrix composite characterization at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-II / PAT-II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Assistant-II/ PA-II (Any Stream)\" to \"Project Assistant-II / PA-II (Any Stream)\"; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Photography and videography with editing skills"
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-nal:63b4eec9e704",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "(₹20,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "Any Stream 01 35"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹20,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Any Stream"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "PA-II"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "Any Stream 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post for photography and videography with editing skills at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-II / PA-II (Any Stream)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification"
+        ]
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Assistant-II/ PA-II\" to \"Project Assistant-II / PA-II\"; Vacancies changed from 3 to not stated; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Wiring instrumentation and sensor mounting; knowledge in computer programming"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Sc."
+            ],
+            "disciplines": [
+              "ECE",
+              "CS",
+              "IT"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Sc / 3 Years Diploma in Engg / Tech"
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "ECE",
+              "CS",
+              "IT"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "3 Years Diploma in Engg / Tech"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:74f7d587be60",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "(₹20,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE/CS/IT 03 35"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹20,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B.Sc / 3 Years Diploma in Engg /"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "PA-II"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE/CS/IT 03 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post in ECE, CS or IT for wiring, instrumentation, sensor mounting and computer programming at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-II / PA-II",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies"
+        ]
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Microcontroller, embedded systems, power electronics, autopilot design, Ardupilot/PX4, MATLAB/Simulink, AI models for electromagnetic applications, virtual lab content design"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "CS",
+              "Instrumentation",
+              "Control"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR any equivalent qualifications duly recognized by the concerned authority."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:79ad0201fd35",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "(₹25,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "09 35"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "09 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post in ECE, EEE, CS, Instrumentation or Control for embedded systems, autopilot and simulation work at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I",
+      "vacancies": 9,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T07:08:53.167Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "3 years’ experience (with bachelor’s degree) or 2 years’ experience (with master’s degree) in Research and Development or Scientific activities"
+        },
+        "other": [
+          "Python programming, embedded computing on NVIDIA/Raspberry boards, GUI development, processing hyperspectral aerial imagery, computer vision and deep learning for crop and pest classification, PX4 firmware"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology from a recognized University OR equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Computer Science",
+              "ECE"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters in Engineering OR Technology from a recognized University and 2 years’ experience in Research and Development in Industrial and Academic Institutions OR Science and Technology Organizations and Scientific activities and services."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:8b190df9b26e",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "(₹42,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "ECE 01 40"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "(₹42,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "Bachelor's degree in Engineering or"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Senior PAT"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "ECE 01 40"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Senior temporary project post in Computer Science or ECE for embedded computing, aerial imagery and deep learning work at CSIR-NAL, Bengaluru.",
+      "title": "Senior PAT (Computer Science / ECE)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Associate- II / PAT-II\" to \"Project Associate-II / PAT-II\"; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-23",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-23",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development (with bachelor’s degree), or with 2 years’ experience as stated in the notice"
+        },
+        "other": [
+          "Wind tunnel controls, DAQ, LabVIEW; software development; model based design of aircraft control laws; antenna-radome EM analysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "Instrumentation",
+              "Control & Automation",
+              "Computer Science",
+              "RF",
+              "Microwave"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University or equivalent AND 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services OR with 2 years’ experience"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "ECE",
+              "EEE",
+              "Instrumentation",
+              "Control & Automation",
+              "Computer Science",
+              "RF",
+              "Microwave"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Engineering or Technology from a recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:b6407888b0fb",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "(₹28,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "05 35"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "(₹28,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "Masters/Integrated Masters in"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "PAT-II"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "05 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post in ECE, EEE, Instrumentation, Control and Automation, Computer Science, RF or Microwave at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-II / PAT-II",
+      "vacancies": 5,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "3 years’ experience (with bachelor’s degree) or 2 years’ experience (with master’s degree) in Research and Development or Scientific activities"
+        },
+        "other": [
+          "UAV pilot (fixed-wing and multirotor); UAV sub-systems, autopilot integration, GCS software; preparing UAV systems requirements document"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology from a recognized University OR equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters in Engineering OR Technology from a recognized University and 2 years’ experience in Research and Development in Industrial and Academic Institutions OR Science and Technology Organizations and Scientific activities and services."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:b916876a0092",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "(₹42,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "01 40"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "years’ experience in Research and"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "(₹42,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Bachelor's degree in Engineering or"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Senior PAT"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01 40"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Senior temporary project post in Mechanical, Aerospace or Aeronautical engineering for UAV systems work at CSIR-NAL, Bengaluru.",
+      "title": "Senior PAT",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Title changed from \"Project Assistant-I/ PA-I\" to \"Project Assistant-I / PA-I\"; Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Autoclave maintenance, operation, calibration etc"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Fitter"
+            ],
+            "level": "iti",
+            "minPercent": null,
+            "text": "SSC/10th plus ITI Fitter"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:d796d4c9a5ad",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "(₹18,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "SSC/10th plus ITI Fitter 01 35"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "(₹18,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "SSC/10th plus ITI Fitter"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "PA-I"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "SSC/10th plus ITI Fitter 01 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post for autoclave maintenance, operation and calibration at CSIR-NAL, Bengaluru.",
+      "title": "Project Assistant-I / PA-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-12",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: 1-2 years of Aerospace-relevant experience; knowledge in fluid dynamics, aerodynamics; CATIA/Solidworks; Python, MATLAB"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Aerospace",
+              "Aeronautical"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR Any equivalent qualifications duly recognized by the concerned authority"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:df3b445cc3d2",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "(₹25,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "13 35"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Bachelor’s degree in Engineering or"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "PAT-I"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "13 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post to support a scientist on detail design engineering of a hydraulic system and related mechanical design work at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I",
+      "vacancies": 13,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "15/2026/PS",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T07:08:53.167Z",
+          "what": "Eligibility details changed"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:46:59.438Z",
+        "interviewDate": "2026-11-16",
+        "lastChanged": "2026-11-10T07:08:53.167Z",
+        "lastDate": null,
+        "posted": "2026-11-05"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-16",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Design and analysis of metasurfaces; R&D on high temperature shape memory alloys; metal working, metallography and material characterization"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Metallurgical Engineering",
+              "Physics",
+              "Materials Science",
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters from a recognized University"
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Metallurgical Engineering",
+              "Physics",
+              "Materials Science",
+              "Chemistry"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Bachelor’s degree in Engineering or Technology from a recognized University OR any equivalent qualifications duly recognized by the concerned authority"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-nal:e26c7252211b",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.nal.res.in/en/career",
+        "notice": "https://www.nal.res.in/sites/default/files/2026-11/Advt%20No.15-2026-FINAL_0.pdf"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "(₹25,000/-+HRA)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "02 35"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(₹25,000/-+HRA)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Masters/Integrated Masters from a"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "PAT-I"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "02 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Bengaluru",
+        "homepage": "https://www.nal.res.in/",
+        "id": "csir-nal",
+        "name": "CSIR-National Aerospace Laboratories",
+        "parent": "CSIR",
+        "shortName": "NAL",
+        "state": "Karnataka"
+      },
+      "summary": "Temporary project post in Metallurgical Engineering, Physics, Materials Science or Chemistry for metal working, metallography and materials characterization at CSIR-NAL, Bengaluru.",
+      "title": "Project Associate-I / PAT-I",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T07:08:53.167Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    }
+  ]
+}
