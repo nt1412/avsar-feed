@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-10",
+  "expire": [
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:02c053c2f1bb",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:0c38c0c20216",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:0c93f70f6277",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:131fa0729d0d",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:1e98528c730e",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:211b0f1e3203",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:2c3aac678698",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:4046541d2b9c",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:58ccf7881018",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:602083c346df",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:6581e4c99dc8",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:66c2198c6da5",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:7c351b1c2f2d",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:83be4e4a15a0",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:8b755e7a8886",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:901e4e68dcf4",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:9eab9f2f09a2",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:a5053eb094e4",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:a8e602b98eb7",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:d197a7f36a6a",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:e2f00fe3e183",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:e53d5fd0e883",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:eac800b04e0c",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:ec6c4861d7f6",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:fda0f2dfd3c0",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-10T13:03:38.574Z",
+      "id": "csir-iict:ff0fa719071d",
+      "reason": "gone_from_source"
+    }
+  ],
+  "generatedAt": "2026-11-10T13:03:38.574Z",
+  "prevSeq": 4,
+  "schemaVersion": 1,
+  "seq": 5,
+  "upserts": []
+}
