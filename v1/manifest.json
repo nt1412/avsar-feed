@@ -50,15 +50,24 @@
       "seq": 5,
       "sha256": "740f9880faee4411556e17d5681322fadc3db33f41ddc27328426729a99edae9",
       "upserts": 0
+    },
+    {
+      "date": "2026-11-10",
+      "expires": 0,
+      "path": "diffs/000006.json",
+      "prevSeq": 5,
+      "seq": 6,
+      "sha256": "fd043bf6c46491ff347236752eaaca634747faa6cef79a64eea1e4a7e54d2acb",
+      "upserts": 40
     }
   ],
-  "generatedAt": "2026-11-10T13:03:38.574Z",
-  "latestSeq": 5,
+  "generatedAt": "2026-11-10T13:20:42.679Z",
+  "latestSeq": 6,
   "schemaVersion": 1,
   "snapshot": {
-    "count": 33,
+    "count": 73,
     "path": "snapshot.json",
-    "seq": 5,
-    "sha256": "905acde085df90686d8bb3f5c7af35642950f1fa9a74e6e8d969bea05d2a05b1"
+    "seq": 6,
+    "sha256": "721b4001067aa268aed000f6c5b6e933b05cf1796152bae552abf7131fb9586d"
   }
 }

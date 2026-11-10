@@ -1,0 +1,4804 @@
+{
+  "date": "2026-11-10",
+  "expire": [],
+  "generatedAt": "2026-11-10T13:20:42.679Z",
+  "prevSeq": 5,
+  "schemaVersion": 1,
+  "seq": 6,
+  "upserts": [
+    {
+      "advtNo": "C03/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:12:59.450Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:12:59.450Z",
+        "lastDate": null,
+        "posted": "2026-08-10"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": null,
+          "max": 64,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": null,
+          "text": "Experienced candidate for pump house operations, LPG supply grid maintenance, fabrication and workshop activities."
+        },
+        "other": [
+          "Applicant must be a citizen of India / Ex-serviceman / Retired Central Government employee retired from CSIR, Central Autonomous bodies, Central or State Government or PSUs.",
+          "Post held at the time of retirement: Lab Assistant (Level-5).",
+          "Engagement initially for six months or until the regular incumbent joins; may be extended at the discretion of the Competent Authority; maximum age for engagement 65 years.",
+          "Working hours 9:30 AM to 6:00 PM; paid leave at 1.5 days per completed month of service.",
+          "Engagement is purely contractual and confers no right to regular appointment."
+        ],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:5202b4280f27",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://ccmb.res.in/wp-content/uploads/2026/08/notif_C03_2026_10_08_2026.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": null,
+        "monthlyMin": null,
+        "text": "Remuneration shall be as per CSIR guidelines issued from time to time."
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Candidates should not be more than 64 years of age on the last"
+        },
+        "experience": {
+          "page": 1,
+          "snippet": "General Engineering Section requires an experienced candidate"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Remuneration shall be as per CSIR guidelines issued from time to time."
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Name of the position Lab Assistant (on Contract)"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "No. of. position One"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Short-term contract engagement of a retired employee as Lab Assistant (on Contract) in the General Engineering Section of CSIR-CCMB, Hyderabad, for pump house operations, LPG supply grid maintenance, fabrication and workshop activities.",
+      "title": "Lab Assistant (on Contract)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:12:59.450Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Laboratory Assistant (Chemical Plant)"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Laboratory Assistant (Chemical Plant)."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Laboratory Assistant (Chemical Plant)"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Laboratory Assistant (Chemical Plant)."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Laboratory Assistant (Chemical Plant)"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Laboratory Assistant (Chemical Plant) in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:1a719773d069",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "[Total = 2 posts]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Laboratory Assistant (Chemical Plant) trade at CSIR-CFTRI, Mysuru. Two posts: UR-1, SC-1.",
+      "title": "Technician (1) - Laboratory Assistant (Chemical Plant) (TE04)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Electronics Mechanic"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Electronics Mechanic."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Electronics Mechanic"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Electronics Mechanic."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Electronics Mechanic"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Electronics Mechanic in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:2b0df4ba2ff5",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "[Total = 7 posts]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Electronics Mechanic trade at CSIR-CFTRI, Mysuru. Seven posts: UR-4, EWS-1, SC-1, OBC(NCL)-1; one post each reserved for ESM and PwBD category c.",
+      "title": "Technician (1) - Electronics Mechanic (TE02)",
+      "vacancies": 7,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Electrician"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Electrician."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Electrician"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Electrician."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Electrician"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Electrician in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:41316346a376",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "[Total = 2 posts]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Electrician trade at CSIR-CFTRI, Mysuru. Two posts: EWS-1, ST-1.",
+      "title": "Technician (1) - Electrician (TE08)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Instrument Mechanic"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Instrument Mechanic."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Instrument Mechanic"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Instrument Mechanic."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Instrument Mechanic"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Instrument Mechanic in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:4d8c7976af3b",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "[Total = 1 post]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Instrument Mechanic trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
+      "title": "Technician (1) - Instrument Mechanic (TE03)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Information & Communication Technology System Maintenance"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Information & Communication Technology System Maintenance."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Information & Communication Technology System Maintenance"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Information & Communication Technology System Maintenance."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Information & Communication Technology System Maintenance"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Information & Communication Technology System Maintenance in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:59331a8f9cad",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "[Total = 1 post]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the ICT System Maintenance trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
+      "title": "Technician (1) - Information & Communication Technology System Maintenance (TE06)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Turner"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Turner."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Turner"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Turner."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Turner"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Turner in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:5a8f6686fb0a",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "[Total = 1 post]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Turner trade at CSIR-CFTRI, Mysuru. One post reserved for EWS.",
+      "title": "Technician (1) - Turner (TE12)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Carpenter"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Carpenter."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Carpenter"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Carpenter."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Carpenter"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Carpenter in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:5ced366f37b3",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "[Total = 1 post]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Carpenter trade at CSIR-CFTRI, Mysuru. One post, unreserved (UR-1).",
+      "title": "Technician (1) - Carpenter (TE09)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Sheet Metal Worker"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Sheet Metal Worker."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Sheet Metal Worker"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC/ 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Sheet Metal Worker."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Sheet Metal Worker"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Sheet Metal Worker in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:bc710c22689c",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "[Total = 1 post]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Sheet Metal Worker trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
+      "title": "Technician (1) - Sheet Metal Worker (TE11)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Refrigeration & Air Conditioning Technician"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Refrigeration & Air Conditioning Technician."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Refrigeration & Air Conditioning Technician"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Refrigeration & Air Conditioning Technician."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Refrigeration & Air Conditioning Technician"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Refrigeration & Air Conditioning Technician in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:c24b92ee1ae8",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "[Total = 2 posts]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Refrigeration & Air Conditioning Technician trade at CSIR-CFTRI, Mysuru. Two posts: SC-1, OBC(NCL)-1.",
+      "title": "Technician (1) - Refrigeration & Air Conditioning Technician (TE07)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Welder"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Welder."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Welder"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Welder."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Welder"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Welder in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:cb0f622e63c6",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "[Total = 1 post]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Welder trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
+      "title": "Technician (1) - Welder (TE13)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Plumber"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Plumber."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Plumber"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Plumber."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Plumber"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Plumber in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:d949b90b633d",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "[Total = 1 post]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Plumber trade at CSIR-CFTRI, Mysuru. One post reserved for EWS.",
+      "title": "Technician (1) - Plumber (TE10)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Computer Operator and Programming Assistant (COPA)"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Computer Operator and Programming Assistant (COPA)."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Computer Operator and Programming Assistant (COPA)"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Computer Operator and Programming Assistant (COPA)."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Computer Operator and Programming Assistant (COPA)"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Computer Operator and Programming Assistant (COPA) in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:d962d876eedd",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "[Total = 2 posts]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the COPA trade at CSIR-CFTRI, Mysuru. Two posts: UR-1, OBC(NCL)-1; one post reserved for PwBD category b.",
+      "title": "Technician (1) - Computer Operator and Programming Assistant (COPA) (TE05)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "partial",
+        "unsureFields": [
+          "requiredExams"
+        ]
+      }
+    },
+    {
+      "advtNo": "Rec.02/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-10T13:16:22.659Z",
+        "lastDate": "2026-11-18",
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 28,
+          "min": 18,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            },
+            {
+              "group": "PwBD",
+              "years": 10
+            },
+            {
+              "group": "ExServicemen",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Applicant must be a citizen of India.",
+          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
+          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Fitter"
+            ],
+            "level": "iti",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Fitter."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Fitter"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Fitter."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Fitter"
+            ],
+            "level": "10th",
+            "minPercent": 55,
+            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Fitter in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:ee56a94b533f",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://recruitment.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 63200,
+        "monthlyMin": 19900,
+        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
+      },
+      "provenance": {
+        "age": {
+          "page": 10,
+          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+        },
+        "lastDate": {
+          "page": 1,
+          "snippet": "18-11-2026 (upto 11:59 P.M.)"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "(₹19,900-63,200)"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Technician (1)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "[Total = 6 posts]"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "Regular direct-recruitment Technician (1) post in the Fitter trade at CSIR-CFTRI, Mysuru. Six posts: UR-2, EWS-1, SC-1, OBC(NCL)-2; one post reserved for ESM.",
+      "title": "Technician (1) - Fitter (TE01)",
+      "vacancies": 6,
+      "verification": {
+        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Chemical Engineering experiments for reactor characterization and some level of python coding / instruments integration / algorithms development"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engg",
+              "Chemical Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Chemical Engg / Chemical Technology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:02c053c2f1bb",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+24%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+24%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B.Tech in Chemical Engg / Chemical Technology"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Open Loop, automated and reconfigurable platform for chemical reactor characterization' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Preferred six months experience in Organic Chemistry"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:0c38c0c20216",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "₹. 25,000+30%HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M. Sc. in Chemistry"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "04"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Process development for the Preparation of new generation Hydrofluoroolefine' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 4,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: GATE qualified (or) 6 months experience in R&D"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Environmental Engineering",
+              "Biochemical Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Chemical / Environmental/ Biochemical Engineering"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:0c93f70f6277",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 30000,
+        "monthlyMin": 30000,
+        "text": "₹. 30,000/- (consolidated)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 30,000/- (consolidated)"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "B.Tech in Chemical / Environmental/ Biochemical Engineering"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Process development for preparation of cosmetic-grade cellulose powder and micro crystalline cellulose from sugarcane bagasse' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 50,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: experience in in-silico protein/enzyme engineering, rational mutation design, computational screening of enzyme variants, molecular dynamics simulations, protein structure prediction and computational biocatalysis; knowledge and hands-on experience in protein structure analysis, molecular docking, enzyme-substrate interaction studies and sequence analysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Biotechnology",
+              "Bioinformatics",
+              "Computational Biology",
+              "Biochemistry",
+              "Chemistry",
+              "Life Sciences or related field"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc./ B. Tech in Biotechnology/ Bioinformatics/ Computational Biology/ Biochemistry/ Chemistry/ Life Sciences or related field"
+          },
+          {
+            "degrees": [
+              "B. Tech"
+            ],
+            "disciplines": [
+              "Biotechnology",
+              "Bioinformatics",
+              "Computational Biology",
+              "Biochemistry",
+              "Chemistry",
+              "Life Sciences or related field"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "M.Sc./ B. Tech in Biotechnology/ Bioinformatics/ Computational Biology/ Biochemistry/ Chemistry/ Life Sciences or related field"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:131fa0729d0d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 37000,
+        "monthlyMin": 30000,
+        "text": "₹. 30,000+30%HRA (or) ₹. 37,000+30%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "50"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 30,000+30%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc./ B. Tech in Biotechnology/ Bioinformatics/ Computational Biology/"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "(PAT-I) (ANRF)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the ANRF-funded project 'Sustainable chemo-enzymatic synthesis of APIs and intermediates using transaminases and lipases' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I) (ANRF)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Organic Synthesis or Materials Science"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:1e98528c730e",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 25,000+30%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemistry"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Energy Harvesting Materials' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Catalysis (or) Aspen Plus / Hysis / MATLAB / Python"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B. Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Petro Chemical Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B. Tech in Chemical / Petro Chemical Engineering"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:211b0f1e3203",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B. Tech in Chemical / Petro Chemical Engineering"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Auto thermal vapor phase Catalytic Ammoxidation for Intensified Production of Nitriles' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in CO2 Capture & Catalysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:2c3aac678698",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. in Chemistry"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Intensified absorber configurations for CO2 capture from flue gases' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Working experience in IPR / Project / Technology Management / S&T Management etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Biological Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical/ Biological Sciences"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:4046541d2b9c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M.Sc. in Chemical/ Biological Sciences"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience in Research and Development in Industrial and Academic Institutional"
+        },
+        "other": [
+          "Desirable: Ph.D. submitted in Chemistry / Polymer Science / Chemical Engineering with experience in R&D in industrial and academic institutions / process development & scale up polymer processing"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc.",
+              "Integrated M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience in Research and Development in Industrial and Academic Institutional"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:58ccf7881018",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "₹. 42,000+ 27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 7,
+          "snippet": "40"
+        },
+        "experience": {
+          "page": 7,
+          "snippet": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 7,
+          "snippet": "₹. 42,000+ 27%HRA"
+        },
+        "qualification": {
+          "page": 7,
+          "snippet": "M.Sc. /Integrated M.Sc. in chemical Engineering with 2 years’ experience"
+        },
+        "title": {
+          "page": 7,
+          "snippet": "Senior Project Associate"
+        },
+        "vacancies": {
+          "page": 7,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary senior project post under the sponsored project 'Sustainable process for production of biodegradable polymers from PET bottle scrap' at CSIR-IICT, Hyderabad.",
+      "title": "Senior Project Associate (Senior-PAT)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [],
+        "qualifications": [
+          {
+            "degrees": [
+              "B. Tech"
+            ],
+            "disciplines": [
+              "Computer Science"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B. Tech in Computer Science"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:602083c346df",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+24%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+24%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B. Tech in Computer Science"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the BDRM - Project Coordination Unit at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "B.Tech in Chemical / Environmental Engineering with 2 years’ experience"
+        },
+        "other": [
+          "Desirable: 2 years R&D Experience"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Environmental Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Tech in Chemical / Environmental Engineering"
+          },
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering",
+              "Environmental Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Chemical / Environmental Engineering with 2 years’ experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:6581e4c99dc8",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 6,
+          "snippet": "B.Tech in Chemical / Environmental Engineering with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 28,000+30%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "M. Tech in Chemical / Environmental Engineering"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post for the project 'Hydrodynamic cavitation assisted mechano-chemical process for precipitation of Nano-Silica from Rice Husk Ash' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D experience"
+        },
+        "other": [
+          "Desirable: 2 years’ experience in Synthetic Organic Chemistry"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:66c2198c6da5",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+27%HRA (or) ₹. 35,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 28,000+27%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemical or Pharmaceutical Sciences with 2 years’ R&D"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Biochemistry",
+              "Biotechnology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Biochemistry/ Biotechnology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:7c351b1c2f2d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M.Sc. in Biochemistry/ Biotechnology"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the chemo-enzymatic synthesis of heterocyclic spirocyclic compounds project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in experimental set-up, gas-liquid reactions, CFD modeling for reactive flow / process simulations modelling on ASPEN; experience in software such as COMSOL, STAR-CCM+ etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B. Tech",
+              "B.E."
+            ],
+            "disciplines": [
+              "Chemical",
+              "Petrochemical Engg",
+              "Chemical Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B. Tech / B.E. in Chemical / Petrochemical Engg / Chemical Technology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:83be4e4a15a0",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "B. Tech / B.E. in Chemical / Petrochemical Engg / Chemical Technology"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Development of Intensified absorber configurations for CO2 capture from flue gases' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Strong interest in computational materials and/or chemistry; previous experience in molecular/materials simulations is preferred"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc.",
+              "BS-MS"
+            ],
+            "disciplines": [
+              "Chemistry",
+              "Chemical Sciences",
+              "Physics",
+              "Physical Science"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. or BS-MS in Chemistry / Chemical Sciences / Physics / Physical Science"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:8b755e7a8886",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. or BS-MS in Chemistry / Chemical Sciences / Physics / Physical"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'AI-Guided workflows for Multi-Scale Design and Discovery of Functional Materials' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: One year experience in Pharmacology and Cell Culture"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Pharmacology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Pharmacology from Recognized University"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:901e4e68dcf4",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+30%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+30%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Pharmacology from Recognized University"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Licensing of Patent related to topical formulation for dermal disorders' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "qualification",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "B.Tech / B.E. in Chemical / Petrochemical Engg. / Chemical Technology with 3 years of experience (OR) M.Tech in Chemical Engineering with 2 years of experience"
+        },
+        "other": [
+          "Desirable: Ph.D. in Engineering Sciences; experience in experimental set-up, gas-liquid reactions, CFD modeling for reactive flow / process simulations modelling on ASPEN; experience in software such as COMSOL, STAR-CCM+ etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech",
+              "B.E."
+            ],
+            "disciplines": [
+              "Chemical Engg.",
+              "Petrochemical Engg.",
+              "Chemical Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech / B.E. in Chemical / Petrochemical Engg. / Chemical Technology with 3 years of experience"
+          },
+          {
+            "degrees": [
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Chemical Engineering"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Tech in Chemical Engineering with 2 years of experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:9eab9f2f09a2",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "₹. 42,000+ 27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 7,
+          "snippet": "40"
+        },
+        "experience": {
+          "page": 7,
+          "snippet": "with 3 years of experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 7,
+          "snippet": "₹. 42,000+ 27%HRA"
+        },
+        "qualification": {
+          "page": 7,
+          "snippet": "B.Tech / B.E. in Chemical / Petrochemical Engg. / Chemical Technology"
+        },
+        "title": {
+          "page": 7,
+          "snippet": "Senior Project Associate"
+        },
+        "vacancies": {
+          "page": 7,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary senior project post under the sponsored project 'Development of Intensified absorber configurations for CO2 capture from flue gases' at CSIR-IICT, Hyderabad.",
+      "title": "Senior Project Associate (Senior-PAT)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Catalysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:a5053eb094e4",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M. Sc. in Chemistry"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Auto thermal vapor phase Catalytic Ammoxidation for Intensified Production of Nitriles' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Catalysis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:a8e602b98eb7",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M.Sc. in Chemistry"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'From Shellfish Waste to Health-Promoting Sugar' (chitin to glucosamine process) at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: 2 years’ experience on Animal Experiment"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Pharm"
+            ],
+            "disciplines": [
+              "Pharmacology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Pharm in Pharmacology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:d197a7f36a6a",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M. Pharm in Pharmacology"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 40,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 3,
+          "text": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+        },
+        "other": [
+          "Desirable: Ph.D. in Chemical Science / Physics / Material with research experience in publications / patents / device fabrication / solar cells"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Science",
+              "Physics",
+              "Material"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:e2f00fe3e183",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 45000,
+        "monthlyMin": 45000,
+        "text": "₹. 45,000/- (Consolidated)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "40"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 45,000/- (Consolidated)"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. Chemical Science / Physics / Material with 3 years of Experience"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Senior Project Associate"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary senior project post under the sponsored project 'Development of Energy Harvesting Materials' at CSIR-IICT, Hyderabad.",
+      "title": "Senior Project Associate (Senior-PAT)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "B.Tech in Mechanical/ Chemical/ Civil/ Electronics/ Electrical/ Safety/ Fire Safety Engineering with 2 years’ experience"
+        },
+        "other": [
+          "Desirable: 2 years’ experience in safety management at industry / research laboratories / construction / academic institutions etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Mechanical",
+              "Chemical",
+              "Civil",
+              "Electronics",
+              "Electrical",
+              "Safety",
+              "Fire Safety Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Mechanical/ Chemical/ Civil/ Electronics/ Electrical/ Safety/ Fire Safety Engineering with 2 years’ experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:e53d5fd0e883",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+24%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 7,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 7,
+          "snippet": "Fire Safety Engineering with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 7,
+          "snippet": "₹. 28,000+24%HRA"
+        },
+        "qualification": {
+          "page": 7,
+          "snippet": "Fire Safety Engineering with 2 years’ experience"
+        },
+        "title": {
+          "page": 7,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 7,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post for the project 'Safety Management in CSIR-IICT' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: 6 months R&D experience"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical or Pharmaceutical Sciences"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:eac800b04e0c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. in Chemical or Pharmaceutical Sciences"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Chemical Sciences and Technologies for Health, Agriculture and Environment (CSTHAE)' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+        },
+        "other": [
+          "Desirable: Experience in IPR / Project Management / Technology Transfer / Agreement or MoU Drafting / S&T Management etc."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemical Sciences",
+              "Biological Sciences",
+              "Pharma"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:ec6c4861d7f6",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 28000,
+        "text": "₹. 28,000+27%HRA (or) ₹. 35,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "35"
+        },
+        "experience": {
+          "page": 5,
+          "snippet": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "₹. 28,000+27%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M.Sc. in Chemical/ Biological Sciences/ Pharma with 2 years’ experience"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Project Associate-II (PAT-II)"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored CSTHAE project at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-II (PAT-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Organic Synthesis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M. Pharma"
+            ],
+            "disciplines": [],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Pharma"
+          },
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Organic Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Organic Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:fda0f2dfd3c0",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M. Pharma / M.Sc. in Organic Chemistry"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Gram Scale Synthesis of ACMB and K-Acid of CTPR' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "PS/09/2026",
+      "applyMode": "walk_in",
+      "changeLog": [
+        {
+          "at": "2026-11-10T13:20:42.676Z",
+          "what": "The lab re-posted this notice at a new address"
+        }
+      ],
+      "dates": {
+        "firstSeen": "2026-11-10T06:51:52.868Z",
+        "interviewDate": "2026-11-17",
+        "lastChanged": "2026-11-10T13:20:42.676Z",
+        "lastDate": null,
+        "posted": "2026-11-06"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-17",
+          "max": 35,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience / Knowledge on IPR"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry",
+              "Bio-Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry / Bio-Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-iict:ff0fa719071d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.iict.res.in/CAREERS",
+        "notice": "https://www.iict.res.in/career/Walk-in-Interview_Notification_No._PS-9-2026_1794304442.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "₹. 25,000+27%HRA (or) ₹. 31,000+27%HRA (with NET / GATE)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Walk-in-Interview: 17.11.2026 (Position Code: 1 to 26)"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "₹. 25,000+27%HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.Sc. in Chemistry / Bio-Chemistry"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-I (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.iict.res.in/",
+        "id": "csir-iict",
+        "name": "CSIR-Indian Institute of Chemical Technology",
+        "parent": "CSIR",
+        "shortName": "IICT",
+        "state": "Telangana"
+      },
+      "summary": "Temporary project post under the sponsored project 'Chemical Sciences and Technologies for Health, Agriculture and Environment (CSTHAE)' at CSIR-IICT, Hyderabad.",
+      "title": "Project Associate-I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-10T06:51:52.868Z",
+        "status": "partial",
+        "unsureFields": [
+          "age"
+        ]
+      }
+    }
+  ]
+}
