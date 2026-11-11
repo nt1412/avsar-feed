@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-11",
+  "expire": [],
+  "generatedAt": "2026-11-11T12:32:00.223Z",
+  "prevSeq": 7,
+  "schemaVersion": 1,
+  "seq": 8,
+  "upserts": [
+    {
+      "advtNo": "2026/02",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-11T12:31:14.653Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-11T12:31:14.653Z",
+        "lastDate": "2026-12-02",
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable number of years of experience in Research and Development in Industrial and Academic Institutions or science and Technology Organizations and Scientific activities and services.",
+          "Candidates with last semester result awaited or incomplete degrees are not eligible to apply."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Science",
+              "Pharma"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science/ Pharma/ MD/ MS from a recognized University or equivalent."
+          },
+          {
+            "degrees": [
+              "MD",
+              "MS"
+            ],
+            "disciplines": [
+              "Medicine"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science/ Pharma/ MD/ MS from a recognized University or equivalent."
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering or Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters degree in Engineering or Technology from a recognized University or equivalent."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:1259be27d5a8",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/pse_notification_2026_02_11_11_2026.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": null,
+        "monthlyMin": null,
+        "text": "As per CSIR guidelines or applicable funding agency guidelines issued from time to time, with the approval of the Competent authority. No monthly figure stated."
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Upper Age limit: 40 years"
+        },
+        "lastDate": {
+          "page": 2,
+          "snippet": "Last date to submit application through online: 02nd"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "On engagement as project staff, payment of emoluments shall be as per CSIR guidelines or"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Doctoral Degree in Science/ Pharma/ MD/ MS OR Masters/"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "CANDIDATES AS PROJECT STAFF PURELY ON TEMPORARY BASIS"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Empanelment as project staff purely on temporary basis in broad research areas of cell, molecular, structural biology and ecology and evolutionary biology at CSIR-CCMB, Hyderabad. This entry covers the category with a Doctoral degree or Masters in Engineering or Technology and an upper age limit of 40 years.",
+      "title": "Project Staff",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-11T12:31:14.653Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "2026/02",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-11T12:31:14.653Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-11T12:31:14.653Z",
+        "lastDate": "2026-12-02",
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable number of years of experience in Research and Development in Industrial and Academic Institutions or science and Technology Organizations and Scientific activities and services.",
+          "Candidates with last semester result awaited or incomplete degrees are not eligible to apply."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Natural Sciences",
+              "Agricultural Sciences",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters Degree in Natural or Agricultural or Pharmaceutical Sciences from a recognized University or equivalent."
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering or Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "bachelor's degree in Engineering or Technology from a recognized University or equivalent."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Medicine"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "bachelor's degree in Medicine from a recognized University or equivalent."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:4d02505ea22f",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/pse_notification_2026_02_11_11_2026.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": {
+        "monthlyMax": null,
+        "monthlyMin": null,
+        "text": "As per CSIR guidelines or applicable funding agency guidelines issued from time to time, with the approval of the Competent authority. No monthly figure stated."
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Upper Age limit: 35 years"
+        },
+        "lastDate": {
+          "page": 2,
+          "snippet": "Last date to submit application through online: 02nd"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "On engagement as project staff, payment of emoluments shall be as per CSIR guidelines or"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Masters/ Integrated Masters Degree in Natural or Agricultural or Pharmaceutical Sciences"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "CANDIDATES AS PROJECT STAFF PURELY ON TEMPORARY BASIS"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Empanelment as project staff purely on temporary basis in broad research areas of cell, molecular, structural biology and ecology and evolutionary biology at CSIR-CCMB, Hyderabad. This entry covers the category with a Masters/Integrated Masters or bachelor's qualification and an upper age limit of 35 years.",
+      "title": "Project Staff",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-11T12:31:14.653Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification",
+          "age"
+        ]
+      }
+    }
+  ]
+}
