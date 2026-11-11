@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-11",
+  "expire": [
+    {
+      "at": "2026-11-11T02:31:04.417Z",
+      "id": "csir-ccmb:11c4ffe9724d",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-11T02:31:04.417Z",
+      "id": "csir-ccmb:1438ef2c61fb",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-11T02:31:04.417Z",
+      "id": "csir-ccmb:23b41181db33",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-11T02:31:04.417Z",
+      "id": "csir-ccmb:44f694afc75f",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-11T02:31:04.417Z",
+      "id": "csir-ccmb:d40be59e205c",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-11T02:31:04.417Z",
+      "id": "csir-ccmb:d4b07e02a9b3",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-11T02:31:04.417Z",
+      "id": "csir-ccmb:da8d37713ddb",
+      "reason": "deadline_passed"
+    }
+  ],
+  "generatedAt": "2026-11-11T02:31:04.417Z",
+  "prevSeq": 6,
+  "schemaVersion": 1,
+  "seq": 7,
+  "upserts": []
+}
