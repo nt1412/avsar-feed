@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:32:00.223Z",
+  "generatedAt": "2026-11-12T02:32:32.524Z",
   "opportunities": [
     {
       "advtNo": "2026/02",
@@ -2452,523 +2452,6 @@
       }
     },
     {
-      "advtNo": "CMERI/CoEFM/2026/04",
-      "applyMode": "walk_in",
-      "changeLog": [
-        {
-          "at": "2026-11-10T07:18:23.203Z",
-          "what": "Pay details changed; Eligibility details changed"
-        }
-      ],
-      "dates": {
-        "firstSeen": "2026-11-10T06:50:36.384Z",
-        "interviewDate": "2026-11-11",
-        "lastChanged": "2026-11-10T07:18:23.203Z",
-        "lastDate": null,
-        "posted": "2026-10-28"
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-11",
-          "max": 35,
-          "min": null,
-          "relaxations": []
-        },
-        "experience": {
-          "minYears": 2,
-          "text": "2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (with the Bachelor’s degree route)"
-        },
-        "other": [
-          "Tenure up to 31/03/2028 (Extendable)",
-          "Desirable: Programming knowledge in C/C++/Python for Image processing and AI applications in agriculture",
-          "Desirable: Working knowledge of Mechatronics/Robotics system design"
-        ],
-        "qualifications": [
-          {
-            "degrees": [
-              "B.E.",
-              "B.Tech"
-            ],
-            "disciplines": [
-              "Computer Science and Engineering",
-              "Electronics and Communication Engineering",
-              "Electrical Engineering",
-              "Information Technology",
-              "Mechanical Engineering",
-              "Agricultural Engineering",
-              "Mechatronics"
-            ],
-            "level": "bachelors",
-            "minPercent": null,
-            "text": "Bachelor’s degree in Engineering or Technology in Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology/Mechanical Engineering/ Agricultural Engineering/ Mechatronics/ from a recognized University or equivalent and 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
-          },
-          {
-            "degrees": [
-              "M.E.",
-              "M.Tech"
-            ],
-            "disciplines": [
-              "Computer Science and Engineering",
-              "Electronics and Communication Engineering",
-              "Electrical Engineering",
-              "Information Technology",
-              "Mechanical Engineering",
-              "Agricultural Engineering",
-              "Mechatronics"
-            ],
-            "level": "masters",
-            "minPercent": null,
-            "text": "Masters / Integrated Masters in Engineering or Technology in Computer Science / Electronics and Communication Engineering / Electrical Engineering / Information Technology/Mechanical Engineering/ Agricultural Engineering/ Mechatronics from a recognized University."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cmeri:713715edeca9",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.cmeri.res.in/vacancy",
-        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
-      },
-      "location": {
-        "city": "Ludhiana",
-        "state": "Punjab"
-      },
-      "pay": {
-        "monthlyMax": 35000,
-        "monthlyMin": 28000,
-        "text": "Rs. 35,000 + HRA* for candidates who have qualified CSIR-UGC / ICAR / ICMR NET incl. lectureship/assistant professorship or GATE or National level examinations conducted by Central Government Departments like DBT/DST or equivalent; Rs. 28,000 + HRA* for others."
-      },
-      "provenance": {
-        "age": {
-          "page": 1,
-          "snippet": "35 Years"
-        },
-        "experience": {
-          "page": 1,
-          "snippet": "2 years’ experience in Research and Development in"
-        },
-        "interviewDate": {
-          "page": 4,
-          "snippet": "11.11.2026"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "Rs. 35,000 + HRA* for"
-        },
-        "qualification": {
-          "page": 1,
-          "snippet": "Bachelor’s degree in Engineering or Technology in"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Project Associate - II"
-        },
-        "vacancies": {
-          "page": 1,
-          "snippet": "01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Durgapur",
-        "homepage": "https://www.cmeri.res.in/",
-        "id": "csir-cmeri",
-        "name": "CSIR-Central Mechanical Engineering Research Institute",
-        "parent": "CSIR",
-        "shortName": "CMERI",
-        "state": "West Bengal"
-      },
-      "summary": "Project Associate-II engaged under project MMP025303 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, through walk-in interview on 11.11.2026.",
-      "title": "Project Associate - II",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T07:18:23.203Z",
-        "status": "partial",
-        "unsureFields": [
-          "age"
-        ]
-      }
-    },
-    {
-      "advtNo": "CMERI/CoEFM/2026/04",
-      "applyMode": "walk_in",
-      "changeLog": [
-        {
-          "at": "2026-11-10T07:18:23.203Z",
-          "what": "Pay details changed; Eligibility details changed"
-        }
-      ],
-      "dates": {
-        "firstSeen": "2026-11-10T06:50:36.384Z",
-        "interviewDate": "2026-11-11",
-        "lastChanged": "2026-11-10T07:18:23.203Z",
-        "lastDate": null,
-        "posted": "2026-10-28"
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-11",
-          "max": null,
-          "min": null,
-          "relaxations": []
-        },
-        "experience": {
-          "minYears": 2,
-          "text": "3 years’ experience in Research and Development for Senior-Project Associate (Bachelor’s route); 2 years’ experience in Research and Development for Project Associate – II (Bachelor’s route)"
-        },
-        "other": [
-          "Upper age limit: Senior-Project Associate 40 Years; PAT – II 35 Years",
-          "Tenure up to 31/03/2028 (Extendable)",
-          "Desirable: Proficiency in mechanical design, CAD/CAE tools, experience in prototype development and engineering, and validation of agricultural machinery",
-          "Desirable: Programming knowledge in C/C++/Python for Image processing and AI applications in agriculture"
-        ],
-        "qualifications": [
-          {
-            "degrees": [
-              "B.E.",
-              "B.Tech"
-            ],
-            "disciplines": [
-              "Mechanical",
-              "Agricultural",
-              "Mechatronics",
-              "Computer Science",
-              "Electronics"
-            ],
-            "level": "bachelors",
-            "minPercent": null,
-            "text": "For Senior-Project Associate: Bachelor’s degree in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University or equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services. For Project Associate – II: Bachelor’s degree in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University or equivalent and 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
-          },
-          {
-            "degrees": [
-              "M.E.",
-              "M.Tech"
-            ],
-            "disciplines": [
-              "Mechanical",
-              "Agricultural",
-              "Mechatronics",
-              "Computer Science",
-              "Electronics"
-            ],
-            "level": "masters",
-            "minPercent": null,
-            "text": "Masters / Integrated Masters in Engineering or Technology in Mechanical / Agricultural / Mechatronics/Computer Science/ Electronics from a recognized University (for Senior-Project Associate, with 2 years’ experience in Research and Development; for Project Associate – II, no experience stated)."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cmeri:77a4bba19a96",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.cmeri.res.in/vacancy",
-        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
-      },
-      "location": {
-        "city": "Ludhiana",
-        "state": "Punjab"
-      },
-      "pay": {
-        "monthlyMax": 42000,
-        "monthlyMin": 28000,
-        "text": "For Senior-Project Associate: Rs. 42,000/- +HRA; For PAT-II: Rs. 35,000 + HRA* for those who have qualified CSIR-UGC / ICAR / ICMR NET incl. lectureship/assistant professorship or GATE or National level examinations conducted by Central Government Departments like DBT/DST or equivalent; Rs. 28,000 + HRA* for others."
-      },
-      "provenance": {
-        "age": {
-          "page": 2,
-          "snippet": "Senior-Project Associate : 40 Years; PAT – II : 35 Years"
-        },
-        "experience": {
-          "page": 2,
-          "snippet": "3 years’ experience in Research and Development in"
-        },
-        "interviewDate": {
-          "page": 4,
-          "snippet": "11.11.2026"
-        },
-        "pay": {
-          "page": 2,
-          "snippet": "Rs. 42,000/- +HRA"
-        },
-        "qualification": {
-          "page": 2,
-          "snippet": "Bachelor’s degree in Engineering or Technology in"
-        },
-        "title": {
-          "page": 2,
-          "snippet": "Senior-Project Associate Or Project Associate - II"
-        },
-        "vacancies": {
-          "page": 2,
-          "snippet": "01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Durgapur",
-        "homepage": "https://www.cmeri.res.in/",
-        "id": "csir-cmeri",
-        "name": "CSIR-Central Mechanical Engineering Research Institute",
-        "parent": "CSIR",
-        "shortName": "CMERI",
-        "state": "West Bengal"
-      },
-      "summary": "Post code P702 under project MMP025303 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, offered as Senior-Project Associate or Project Associate-II, with walk-in interview on 11.11.2026.",
-      "title": "Senior-Project Associate Or Project Associate - II",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T07:18:23.203Z",
-        "status": "partial",
-        "unsureFields": [
-          "age"
-        ]
-      }
-    },
-    {
-      "advtNo": "CMERI/CoEFM/2026/04",
-      "applyMode": "walk_in",
-      "changeLog": [
-        {
-          "at": "2026-11-10T07:18:23.203Z",
-          "what": "Eligibility details changed"
-        }
-      ],
-      "dates": {
-        "firstSeen": "2026-11-10T06:50:36.384Z",
-        "interviewDate": "2026-11-11",
-        "lastChanged": "2026-11-10T07:18:23.203Z",
-        "lastDate": null,
-        "posted": "2026-10-28"
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-11",
-          "max": 35,
-          "min": null,
-          "relaxations": []
-        },
-        "experience": {
-          "minYears": 2,
-          "text": "2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (with the Bachelor’s route)"
-        },
-        "other": [
-          "Tenure up to 31/03/2028 (Extendable)",
-          "Desirable: The candidate should have knowledge of CAD software, mechanical Fabrication techniques and design and development of agricultural machinery"
-        ],
-        "qualifications": [
-          {
-            "degrees": [
-              "B.E.",
-              "B.Tech"
-            ],
-            "disciplines": [
-              "Mechanical Engineering",
-              "Agricultural Engineering",
-              "Mechatronics",
-              "Computer Science and Engineering",
-              "Electronics and Communication Engineering",
-              "Electrical Engineering",
-              "Information Technology"
-            ],
-            "level": "bachelors",
-            "minPercent": null,
-            "text": "Bachelor’s degree in Engineering or Technology in Mechanical Engineering/ Agricultural Engineering/ Mechatronics/Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology from a recognized University or equivalent and 2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
-          },
-          {
-            "degrees": [
-              "M.E.",
-              "M.Tech"
-            ],
-            "disciplines": [
-              "Mechanical Engineering",
-              "Agricultural Engineering",
-              "Mechatronics",
-              "Computer Science and Engineering",
-              "Electronics and Communication Engineering",
-              "Electrical Engineering",
-              "Information Technology"
-            ],
-            "level": "masters",
-            "minPercent": null,
-            "text": "Masters / Integrated Masters in Engineering or Technology in Mechanical Engineering/ Agricultural Engineering/ Mechatronics/Computer Science and Engineering / Electronics and Communication Engineering / Electrical Engineering / Information Technology from a recognized University."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cmeri:cc299ba08433",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.cmeri.res.in/vacancy",
-        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
-      },
-      "location": {
-        "city": "Ludhiana",
-        "state": "Punjab"
-      },
-      "pay": null,
-      "provenance": {
-        "age": {
-          "page": 2,
-          "snippet": "35 Years"
-        },
-        "experience": {
-          "page": 2,
-          "snippet": "2 years’ experience in Research and Development in"
-        },
-        "interviewDate": {
-          "page": 4,
-          "snippet": "11.11.2026"
-        },
-        "pay": {
-          "page": 2,
-          "snippet": "Rs. 28,000 + HRA"
-        },
-        "qualification": {
-          "page": 2,
-          "snippet": "Bachelor’s degree in Engineering or Technology in"
-        },
-        "title": {
-          "page": 2,
-          "snippet": "Project Associate – II"
-        },
-        "vacancies": {
-          "page": 2,
-          "snippet": "01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Durgapur",
-        "homepage": "https://www.cmeri.res.in/",
-        "id": "csir-cmeri",
-        "name": "CSIR-Central Mechanical Engineering Research Institute",
-        "parent": "CSIR",
-        "shortName": "CMERI",
-        "state": "West Bengal"
-      },
-      "summary": "Project Associate-II under project MMP002503 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, through walk-in interview on 11.11.2026.",
-      "title": "Project Associate – II",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T07:18:23.203Z",
-        "status": "partial",
-        "unsureFields": [
-          "pay",
-          "age"
-        ]
-      }
-    },
-    {
-      "advtNo": "CMERI/CoEFM/2026/04",
-      "applyMode": "walk_in",
-      "changeLog": [
-        {
-          "at": "2026-11-10T07:18:23.203Z",
-          "what": "Eligibility details changed"
-        }
-      ],
-      "dates": {
-        "firstSeen": "2026-11-10T06:50:36.384Z",
-        "interviewDate": "2026-11-11",
-        "lastChanged": "2026-11-10T07:18:23.203Z",
-        "lastDate": null,
-        "posted": "2026-10-28"
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-11",
-          "max": 35,
-          "min": null,
-          "relaxations": []
-        },
-        "experience": null,
-        "other": [
-          "Tenure up to 31/03/2027",
-          "Desirable: Working knowledge of CAD"
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Agricultural Engineering",
-              "Mechanical Engineering"
-            ],
-            "level": "diploma",
-            "minPercent": null,
-            "text": "3 years Diploma in Agricultural Engineering / Mechanical Engineering from a recognized University."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cmeri:fbb5d6a16d67",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.cmeri.res.in/vacancy",
-        "notice": "https://www.cmeri.res.in/sites/default/files/vacancy/AdvertismentCMERICoEFM202604.pdf"
-      },
-      "location": {
-        "city": "Ludhiana",
-        "state": "Punjab"
-      },
-      "pay": {
-        "monthlyMax": 20000,
-        "monthlyMin": 20000,
-        "text": "Rs. 20000/-"
-      },
-      "provenance": {
-        "age": {
-          "page": 3,
-          "snippet": "35 Years"
-        },
-        "interviewDate": {
-          "page": 4,
-          "snippet": "11.11.2026"
-        },
-        "pay": {
-          "page": 3,
-          "snippet": "Rs. 20000/-"
-        },
-        "qualification": {
-          "page": 3,
-          "snippet": "3 years Diploma in Agricultural Engineering /"
-        },
-        "title": {
-          "page": 3,
-          "snippet": "Project Assistant – II"
-        },
-        "vacancies": {
-          "page": 3,
-          "snippet": "01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Durgapur",
-        "homepage": "https://www.cmeri.res.in/",
-        "id": "csir-cmeri",
-        "name": "CSIR-Central Mechanical Engineering Research Institute",
-        "parent": "CSIR",
-        "shortName": "CMERI",
-        "state": "West Bengal"
-      },
-      "summary": "Project Assistant-II under project MMP015202/2/2 at the CSIR-CMERI Centre of Excellence for Farm Machinery, Ludhiana, through walk-in interview on 11.11.2026.",
-      "title": "Project Assistant – II",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T07:18:23.203Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
       "advtNo": "TKDL/09/2026",
       "applyMode": "walk_in",
       "changeLog": [
@@ -3075,6 +2558,327 @@
         "unsureFields": [
           "age"
         ]
+      }
+    },
+    {
+      "advtNo": "HRDG/JIGYASA/01/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T02:31:21.168Z",
+        "interviewDate": "2026-11-30",
+        "lastChanged": "2026-11-12T02:31:21.168Z",
+        "lastDate": null,
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-30",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 3,
+          "text": "3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (with the Bachelor's degree alternative)"
+        },
+        "other": [
+          "Indian nationals only",
+          "Ph.D. (Submitted) candidates are not eligible",
+          "Final semester and result awaited candidates are not eligible",
+          "Desirable: experience in project management and coordination; organizing student focused events; policy/RDI work; data analysis; IT skills including programming and coding; science communication, outreach and science policy"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc.",
+              "M.V.Sc."
+            ],
+            "disciplines": [
+              "Natural Sciences",
+              "Agricultural Sciences",
+              "Pharmaceutical Sciences",
+              "Animal Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/Integrated Masters in Natural or Agricultural or Pharmaceutical Sciences / MVSc / Animal Sciences"
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering or Technology",
+              "Medicine"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology or Medicine from a recognized University or equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters /Integrated Masters in Engineering or Technology from a recognized University"
+          },
+          {
+            "degrees": [
+              "Ph.D.",
+              "M.D.",
+              "M.S."
+            ],
+            "disciplines": [
+              "Science",
+              "Pharma",
+              "MD",
+              "MS"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science / Pharma / MD / MS from a recognized University or equivalent"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:2ae8a6d3ac7d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-11/jigyasa_proj_staff_advt_eng.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "INR. 42,000 +HRA. HRA is extra."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "Relaxation in Age limit: The relaxation in the Age limit for the candidates belonging to the category of SC/ST/PWD/Women shall be five years and three years for OBC category"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "3 years’ experience in Research and"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date of Walk-in-interview: 30.11.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "INR. 42,000"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Masters/Integrated Masters in Natural or"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Code:\nJP004"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "Code:\nJP004\n2 INR. 42,000"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Senior Project Associate on the CSIR Jigyasa project (HCP002601) at CSIR-HRDG, Pusa, New Delhi, managing IT infrastructure of the Jigyasa Virtual Lab, online promotion, newsletters, banners and posters, and data analysis.",
+      "title": "Senior Project Associate (Senior-PAT)",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-12T02:31:21.168Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification"
+        ]
+      }
+    },
+    {
+      "advtNo": "HRDG/JIGYASA/01/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T02:31:21.168Z",
+        "interviewDate": "2026-11-30",
+        "lastChanged": "2026-11-12T02:31:21.168Z",
+        "lastDate": null,
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-30",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 5,
+          "text": "5 years of relevant experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services (required with the Masters/Integrated Masters alternative)"
+        },
+        "other": [
+          "Indian nationals only",
+          "Ph.D. (Submitted) candidates are not eligible",
+          "Final semester and result awaited candidates are not eligible",
+          "Desirable: experience in project management and coordination; organizing student focused events; policy/RDI work; data analysis; IT skills including programming and coding; science communication, outreach and science policy"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Science"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters / Integrated Masters in Engineering or Technology from a recognized University or equivalent and 5 years of relevant experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:34f9e4aaf551",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-11/jigyasa_proj_staff_advt_eng.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": {
+        "monthlyMax": 67000,
+        "monthlyMin": 67000,
+        "text": "INR. 67,000 + HRA (Increment of 5% for every 2 years of experience in the same project). HRA is extra."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "Relaxation in Age limit: The relaxation in the Age limit for the candidates belonging to the category of SC/ST/PWD/Women shall be five years and three years for OBC category"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "5 years of relevant experience in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date of Walk-in-interview: 30.11.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "INR. 67,000 +"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Doctoral Degree in Science"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Code:\nJP001"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "Code:\nJP001\n1\nINR. 67,000 +"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Project Scientist-II on the CSIR Jigyasa project (HCP002601) at CSIR-HRDG, Pusa, New Delhi, helping to coordinate the project from CSIR-HRDG and assisting end-to-end planning, execution and management of Jigyasa activities.",
+      "title": "Project Scientist- II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T02:31:21.168Z",
+        "status": "verified",
+        "unsureFields": []
       }
     },
     {
@@ -3303,6 +3107,387 @@
       "vacancies": null,
       "verification": {
         "checkedAt": "2026-11-10T07:12:58.143Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": null,
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T02:31:09.442Z",
+        "interviewDate": "2026-11-30",
+        "lastChanged": "2026-11-12T02:31:09.442Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": null,
+        "experience": null,
+        "other": [],
+        "qualifications": [],
+        "requiredExams": []
+      },
+      "id": "csir-hq:457d7b6a2d23",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/en/career-opportunities/recruitment/engagement-project-personnel-through-walk-interview-under-project"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": null,
+      "provenance": {
+        "interviewDate": {
+          "page": null,
+          "snippet": "Walk in Interview on 30/11/2026"
+        },
+        "title": {
+          "page": null,
+          "snippet": "Engagement of Project personnel through 'Walk in interview' under the Project CSIR Jigyasa"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Project personnel to be engaged under the CSIR Jigyasa project (HCP002601) at CSIR-HRDG, New Delhi, through a walk-in interview. Post names, numbers and eligibility are in the linked PDF, which was not available.",
+      "title": "Project personnel",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-12T02:31:09.442Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "HRDG/JIGYASA/01/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T02:31:21.168Z",
+        "interviewDate": "2026-11-30",
+        "lastChanged": "2026-11-12T02:31:21.168Z",
+        "lastDate": null,
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-30",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 3,
+          "text": "6 years' experience with the Bachelor's degree alternative; 3 years' experience with the Masters in Engineering or Technology or Doctoral Degree alternatives"
+        },
+        "other": [
+          "Indian nationals only",
+          "Ph.D. (Submitted) candidates are not eligible",
+          "Final semester and result awaited candidates are not eligible",
+          "Desirable: experience in project management and coordination; organizing student focused events; policy/RDI work; data analysis; IT skills including programming and coding; science communication, outreach and science policy"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc.",
+              "M.V.Sc."
+            ],
+            "disciplines": [
+              "Natural Sciences",
+              "Agricultural Sciences",
+              "Pharmaceutical Sciences",
+              "Animal Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters /Integrated Masters in Natural or Agricultural or Pharmaceutical Sciences / MVSc / Animal Sciences, with 6 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering or Technology",
+              "Medicine"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Bachelor's degree in Engineering or Technology or Medicine from a recognized University or equivalent and 6 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services."
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters /Integrated Masters in Engineering or Technology from a recognized University and 3 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Ph.D.",
+              "M.D.",
+              "M.S."
+            ],
+            "disciplines": [
+              "Science",
+              "Engineering",
+              "Technology",
+              "Pharma"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science / Engineering / Technology / Pharma / MD / MS from a recognized University or equivalent and 3 years' experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:7f1fd7e2b00d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-11/jigyasa_proj_staff_advt_eng.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": {
+        "monthlyMax": 49000,
+        "monthlyMin": 49000,
+        "text": "INR. 49,000 + HRA. HRA is extra."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "Relaxation in Age limit: The relaxation in the Age limit for the candidates belonging to the category of SC/ST/PWD/Women shall be five years and three years for OBC category"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "6 years' experience in Research and"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date of Walk-in-interview: 30.11.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "INR. 49,000 +"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Masters /Integrated Masters in Natural or"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Code:\nJP003"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "Code:\nJP003\n1 INR. 49,000 +"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Principal Project Associate on the CSIR Jigyasa project (HCP002601) at CSIR-HRDG, Pusa, New Delhi, preparing Jigyasa project reports, coordinating the Jigyasa newsletter, and doing data and impact analysis, science communication and policy work.",
+      "title": "Principal Project Associate (Principal-PAT)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T02:31:21.168Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification"
+        ]
+      }
+    },
+    {
+      "advtNo": "HRDG/JIGYASA/01/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T02:31:21.168Z",
+        "interviewDate": "2026-11-30",
+        "lastChanged": "2026-11-12T02:31:21.168Z",
+        "lastDate": null,
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-30",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 4,
+          "text": "4 years of relevant experience in R&D in Industrial and Academic Institutions or S&T Organizations and scientific activities and services (required with the Masters/Integrated Master’s alternative)"
+        },
+        "other": [
+          "Indian nationals only",
+          "Ph.D. (Submitted) candidates are not eligible",
+          "Final semester and result awaited candidates are not eligible",
+          "Desirable: experience in project management and coordination; organizing student focused events; policy/RDI work; data analysis; IT skills including programming and coding; science communication, outreach and science policy"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Science"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science"
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Master’s in Engineering or Technology from a recognized University or equivalent and 4 years of relevant experience in R&D in Industrial and Academic Institutions or S&T Organizations and scientific activities and services"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-hq:9737e2b7eb67",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.csir.res.in/en/career-opportunities/recruitment",
+        "notice": "https://www.csir.res.in/sites/default/files/2026-11/jigyasa_proj_staff_advt_eng.pdf"
+      },
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "pay": {
+        "monthlyMax": 56000,
+        "monthlyMin": 56000,
+        "text": "INR. 56,000 + HRA (Increment of 5% for every 2 years of experience in the same project). HRA is extra."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "Relaxation in Age limit: The relaxation in the Age limit for the candidates belonging to the category of SC/ST/PWD/Women shall be five years and three years for OBC category"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "4 years of relevant experience in R&D in"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date of Walk-in-interview: 30.11.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "INR. 56,000 +"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Doctoral Degree in Science"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Code:\nJP002"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "Code:\nJP002\n1 INR. 56,000 +"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "New Delhi",
+        "homepage": "https://www.csir.res.in/",
+        "id": "csir-hq",
+        "name": "CSIR Headquarters",
+        "parent": "CSIR",
+        "shortName": "CSIR HQ",
+        "state": "Delhi"
+      },
+      "summary": "Project Scientist-I on the CSIR Jigyasa project (HCP002601) at CSIR-HRDG, Pusa, New Delhi, handling event management, student competitions and outreach, coordination of Jigyasa Virtual Lab activities with CSIR laboratories, and policy matters.",
+      "title": "Project Scientist- I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T02:31:21.168Z",
         "status": "verified",
         "unsureFields": []
       }
@@ -8219,5 +8404,5 @@
     }
   ],
   "schemaVersion": 1,
-  "seq": 8
+  "seq": 9
 }
