@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T02:32:32.524Z",
+  "generatedAt": "2026-11-12T12:33:46.470Z",
   "opportunities": [
     {
       "advtNo": "2026/02",
@@ -3787,6 +3787,1377 @@
         "unsureFields": [
           "age"
         ]
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-18",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience of working in any Research Laboratory; proficient in record keeping, data management and making presentations.",
+          "Project tenure up to 31.03.2027"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [],
+            "level": "10th",
+            "minPercent": null,
+            "text": "SSC/10th Plus ITI"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:122d1c65c84a",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "Rs. 18,000/-PM +10% HRA (HRA extra at 10%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Date: 18-11-2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 18,000/-PM +10% HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "SSC/10th Plus ITI"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Assistant-I"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "18002 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Assistant-I under the Building Scientific Competency through training in R&D project (SSP-0142) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Assistant-I (PA-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-19",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-19",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Composting process/microbial formulations.",
+          "Project tenure up to 28.03.2028"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [],
+            "level": "10th",
+            "minPercent": null,
+            "text": "10th plus ITI / SSC."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:4565c6214976",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "Rs. 18,000/-PM + 9% HRA (HRA extra at 9%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 6,
+          "snippet": "Date: 19-11-2026"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "Rs. 18,000/-PM + 9% HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "10th plus ITI / SSC."
+        },
+        "title": {
+          "page": 6,
+          "snippet": "Assistant-I"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "18010 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Assistant-I under the project 'Best of Waste: Transforming Food Waste to Microbial Bioformulation for Boosting Plant Growth' (GAP-0350) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Assistant-I (PA-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-19",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-19",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": null,
+          "text": "With Masters: 6 years’ experience in Research and Development in industrial and academic institutions or science and Technology Organizations and Scientific activities and services; with Ph.D.: 3 years’ experience in research and Development in Industrial and academic institutions or science and Technology Organizations and Scientific activities and services."
+        },
+        "other": [
+          "Desirable: Experience in working with Arabidopsis, Genetic screening, Agrobacterium mediated genetic transformation of plants, Plant Tissue Culture, Cloning and routine molecular biology techniques.",
+          "Project tenure up to 31.03.2028"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Biotechnology",
+              "Molecular Biology",
+              "Botany",
+              "Biochemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters in Biotechnology/ Molecular Biology/ Botany/ Biochemistry from a recognized University and 6 years’ experience in Research and Development in industrial and academic institutions or science and Technology Organizations and Scientific activities and services"
+          },
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Biotechnology",
+              "Molecular Biology",
+              "Botany",
+              "Biochemistry"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Ph.D in Biotechnology/ Molecular Biology/ Botany/ Biochemistry from recognized University and 3 years’ experience in research and Development in Industrial and academic institutions or science and Technology Organizations and Scientific activities and services"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:4d56f9df6f81",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 49000,
+        "monthlyMin": 49000,
+        "text": "Rs. 49,000/-PM + 10%HRA (HRA extra at 10%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "40 Years"
+        },
+        "experience": {
+          "page": 5,
+          "snippet": "6 years’ experience in Research"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date: 19-11-2026"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "Rs. 49,000/-PM + 10%HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "Masters in Biotechnology/"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "PAT"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "18009 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Principal-PAT under the project 'Decrypting the conserved function of FLOWERING PROMOTING FACTOR 1 (FPF1)' (FIR020403) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Principal-PAT",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-19",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-19",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience of working in any Research Laboratory; Good communication skills; conducting visits/exhibitions/outreach programmes for students.",
+          "Candidate may have to travel and stay in peculiar conditions (including remote areas).",
+          "Project tenure up to 31.03.2031"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. Chemistry from a recognized university."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:6932abc54812",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "(a) Rs. 31,000/-PM + 10% HRA for candidates qualified in CSIR-UGC/ICAR/ICMR NET incl. lectureship/assistant professorship or GATE or national level examinations conducted by Central Govt. Departments like DBT/DST or equivalent and/or Agencies/Institutions; (b) Rs. 25,000/-PM + 10% HRA for others. HRA extra at 10%."
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date: 19-11-2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "(a) Rs. 31,000/-PM + 10% HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "M.Sc. Chemistry from a"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "PAT-I"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "18006 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Associate PAT-I under the CSIR-JIGYASA project (HCP002601) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Associate PAT-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-19",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-19",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Two years’ experience in tissue culture of High altitude medicinal plants as evidenced by publication with JCR impact factor> 1.",
+          "Project tenure up to 23.04.2029"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Botany",
+              "Plant Physiology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Botany, Plant Physiology from a recognized University."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:726b1049d4b1",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "Rs. 42000/-PM + 9% HRA (HRA extra at 9%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 5,
+          "snippet": "40 Years"
+        },
+        "interviewDate": {
+          "page": 5,
+          "snippet": "Date: 19-11-2026"
+        },
+        "pay": {
+          "page": 5,
+          "snippet": "Rs. 42000/-PM + 9% HRA"
+        },
+        "qualification": {
+          "page": 5,
+          "snippet": "M.Sc. in Botany, Plant"
+        },
+        "title": {
+          "page": 5,
+          "snippet": "Fellow"
+        },
+        "vacancies": {
+          "page": 5,
+          "snippet": "18008 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Senior Research Fellow under the project 'Exploring the cold-adaptive signaling cascade in High-Altitude medicinal plant Nardostachys jatamansi' (GAP-0368) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Senior Research Fellow",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-19",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in tissue culture of high altitude medicinal plants.",
+          "Project tenure up to 31.03.2027"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Botany",
+              "Plant Physiology",
+              "Biotechnology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. Botany/ Plant Physiology/ Biotechnology from a recognized university."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:790127b6efc9",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "Rs. 25,000/-PM + 10% HRA (HRA extra at 10%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 6,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 6,
+          "snippet": "Date: 19-11-2026"
+        },
+        "pay": {
+          "page": 6,
+          "snippet": "Rs. 25,000/-PM + 10% HRA"
+        },
+        "qualification": {
+          "page": 6,
+          "snippet": "M.Sc. Botany/ Plant Physiology/"
+        },
+        "title": {
+          "page": 6,
+          "snippet": "PAT-I"
+        },
+        "vacancies": {
+          "page": 6,
+          "snippet": "18011 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Associate PAT-I under the project 'Ecological Assessment and Sustainable Valorisation of Himalayan Bio-resources' (MLP002619) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Associate PAT-I",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "partial",
+        "unsureFields": [
+          "vacancies",
+          "interviewDate",
+          "qualification",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-18",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in IP Management/ Tech Transfer/ Survey/ Data Analysis/ S&T Management etc.",
+          "Project tenure up to 31.03.2027"
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Agri",
+              "Biological Sciences",
+              "Pharma",
+              "Computer Sciences",
+              "Tech Management",
+              "MBA",
+              "Business Development"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters in Agri/ Biological Sciences/ Pharma/ Computer Sciences/ Tech Management/ MBA/ Business Development or related area from a recognized university."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:94b9938d2cee",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "Rs. 25,000/-PM + 10% HRA (HRA extra at 10%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "Date: 18-11-2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Rs. 25,000/-PM + 10% HRA"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Masters in Agri/ Biological"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "PAT -I"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "18001 02"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Associate PAT-I under the Technology Transfer Facilitation Centre (TTFC) project (GAP-0381) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary and co-terminus with the project.",
+      "title": "Project Associate PAT-I",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-18",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience of working any Research Laboratory; good communication skills; conducting visits/exhibitions/outreach programs for students; record keeping and data management; Experience of rearing and handling of insects and molecular biology techniques.",
+          "Candidate may have to travel and stay in peculiar conditions (including remote areas).",
+          "Project tenure up to 31.03.2031"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Zoology",
+              "Entomology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.SC. Zoology/Entomology from a recognized university."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:98e5bff8ac97",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "(a) Rs. 31,000/-PM + 10% HRA for candidates qualified in CSIR-UGC/ICAR/ICMR NET incl. lectureship/assistant professorship or GATE or national level examinations conducted by Central Govt. Departments like DBT/DST or equivalent and/or Agencies/Institutions; (b) Rs. 25,000/-PM + 10% HRA for others. HRA extra at 10%."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 3,
+          "snippet": "Date: 18-11-2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "(a) Rs. 31,000/-PM + 10%"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "M.SC. Zoology/Entomology from a"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "PAT-I"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "18005 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Associate PAT-I under the CSIR-JIGYASA project (HCP002601) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Associate PAT-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-18",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
+        },
+        "other": [
+          "Desirable: Good communication skills; record keeping and data management, conducting visits/exhibitions/outreach programmes for students.",
+          "Desirable: Experience of rearing and handling of insects and molecular biology techniques.",
+          "Project tenure up to 31.03.2027"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Zoology",
+              "Entomology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. Zoology/Entomology from a recognized university."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:cf521c8f67d9",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "Rs. 28,000/-PM + 10% HRA (HRA extra at 10%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35 Years"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "2 years’ experience in Research"
+        },
+        "interviewDate": {
+          "page": 2,
+          "snippet": "Date: 18-11-2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 28,000/-PM + 10% HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M.Sc. Zoology/Entomology from a"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "PAT-II"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "18003 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Associate PAT-II under the Building Scientific Competency through training in R&D project (SSP-0142) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Associate PAT-II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-19",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-19",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Work experience in Molecular Biological techniques.",
+          "Project tenure up to 07-05-2029"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Sc."
+            ],
+            "disciplines": [
+              "Botany & Biotechnology",
+              "Biochemistry"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Sc. in Botany & Biotechnology/ Biochemistry from a recognized university or equivalent"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:e84ace3f4ff4",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "Rs. 20,000/-PM + 9%HRA (HRA extra at 9%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 4,
+          "snippet": "Date: 19-11-2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "Rs. 20,000/-PM + 9%HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "B.Sc. in Botany & Biotechnology/"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Assistant"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "18007 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Assistant under the project 'Deciphering the role of a membrane-Localized PKPLAT domain containing protein in high altitude adaptation and abiotic stress response in Picrorhiza kurroa' (GAP-0369) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Assistant",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "18/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-12T12:31:20.933Z",
+        "interviewDate": "2026-11-18",
+        "lastChanged": "2026-11-12T12:31:20.933Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-11-18",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience of working in any Research Laboratory; Good communication skills; Experience of shooting, making and edit videos, short movies clips.",
+          "Candidate may have to travel and stay in peculiar conditions (including remote areas).",
+          "Project tenure up to 31.03.2031"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Sc."
+            ],
+            "disciplines": [
+              "Biological Science"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Sc. (Biological Science) from a recognized university."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ihbt:f65274a84a55",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
+        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
+      },
+      "location": {
+        "city": "Palampur",
+        "state": "Himachal Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "Rs. 20,000/- PM + 10% HRA (HRA extra at 10%)"
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 3,
+          "snippet": "Date: 18-11-2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 20,000/- PM + 10% HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "B.Sc. (Biological Science) from a"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Assistant-II"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "18004 01"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Palampur",
+        "homepage": "https://www.ihbt.res.in/",
+        "id": "csir-ihbt",
+        "name": "CSIR-Institute of Himalayan Bioresource Technology",
+        "parent": "CSIR",
+        "shortName": "IHBT",
+        "state": "Himachal Pradesh"
+      },
+      "summary": "Walk-in interview for Project Assistant-II under the CSIR-JIGYASA project (HCP002601) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
+      "title": "Project Assistant-II (PA-II)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-12T12:31:20.933Z",
+        "status": "verified",
+        "unsureFields": []
       }
     },
     {
@@ -8404,5 +9775,5 @@
     }
   ],
   "schemaVersion": 1,
-  "seq": 9
+  "seq": 10
 }
