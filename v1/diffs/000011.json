@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-13",
+  "expire": [
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-cdri:b3080b29184a",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-hq:1452aefe6e12",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-hq:3995d3d3d94a",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-hq:e3eb050f1a58",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-nal:0d791bd4be74",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-nal:b916876a0092",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-nal:d796d4c9a5ad",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-13T02:31:04.457Z",
+      "id": "csir-nal:df3b445cc3d2",
+      "reason": "deadline_passed"
+    }
+  ],
+  "generatedAt": "2026-11-13T02:31:04.457Z",
+  "prevSeq": 10,
+  "schemaVersion": 1,
+  "seq": 11,
+  "upserts": []
+}
