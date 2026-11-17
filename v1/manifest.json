@@ -104,15 +104,24 @@
       "seq": 11,
       "sha256": "f362c2e1cdb61c65b447baeda6a224a4a20eaf3cd05fd021318d4a24592f63a1",
       "upserts": 0
+    },
+    {
+      "date": "2026-11-17",
+      "expires": 4,
+      "path": "diffs/000012.json",
+      "prevSeq": 11,
+      "seq": 12,
+      "sha256": "875822d99ec9988aa23cbe2ca48725d5d80858ceb69ba1556ca4ec0b5dbe1b59",
+      "upserts": 0
     }
   ],
-  "generatedAt": "2026-11-13T02:31:04.457Z",
-  "latestSeq": 11,
+  "generatedAt": "2026-11-17T03:09:08.491Z",
+  "latestSeq": 12,
   "schemaVersion": 1,
   "snapshot": {
-    "count": 72,
+    "count": 68,
     "path": "snapshot.json",
-    "seq": 11,
-    "sha256": "41c614cd4344fe785425e514b39c0eadc1cda23d024f01b5d0b1ebc7eeaffa8a"
+    "seq": 12,
+    "sha256": "432df67731a8f58372d2272598fb13e97338a8438cc1be244205f0c06ac8ab61"
   }
 }

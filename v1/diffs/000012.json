@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-17",
+  "expire": [
+    {
+      "at": "2026-11-17T03:09:08.491Z",
+      "id": "csir-cftri:41a8e94c924d",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-17T03:09:08.491Z",
+      "id": "csir-nal:33ff957849fd",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-17T03:09:08.491Z",
+      "id": "csir-nal:907a69b56585",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-17T03:09:08.491Z",
+      "id": "csir-nal:e26c7252211b",
+      "reason": "deadline_passed"
+    }
+  ],
+  "generatedAt": "2026-11-17T03:09:08.491Z",
+  "prevSeq": 11,
+  "schemaVersion": 1,
+  "seq": 12,
+  "upserts": []
+}
