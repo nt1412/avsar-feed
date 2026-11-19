@@ -1,0 +1,364 @@
+{
+  "date": "2026-11-19",
+  "expire": [
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:1a719773d069",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:2b0df4ba2ff5",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:41316346a376",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:4d8c7976af3b",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:59331a8f9cad",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:5a8f6686fb0a",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:5ced366f37b3",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:bc710c22689c",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:c24b92ee1ae8",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:cb0f622e63c6",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:d949b90b633d",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:d962d876eedd",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-cftri:ee56a94b533f",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-ihbt:122d1c65c84a",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-ihbt:94b9938d2cee",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-ihbt:98e5bff8ac97",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-ihbt:cf521c8f67d9",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-19T02:31:47.416Z",
+      "id": "csir-ihbt:f65274a84a55",
+      "reason": "deadline_passed"
+    }
+  ],
+  "generatedAt": "2026-11-19T02:31:47.416Z",
+  "prevSeq": 13,
+  "schemaVersion": 1,
+  "seq": 14,
+  "upserts": [
+    {
+      "advtNo": "2026/02",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-19T02:31:11.553Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-19T02:31:11.553Z",
+        "lastDate": "2026-12-02",
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable number of years of experience in Research and Development in Industrial and Academic Institutions or science and Technology Organizations and Scientific activities and services.",
+          "Candidates with last semester result awaited or incomplete degrees are not eligible to apply.",
+          "The name of the candidate in the application form must be the same as mentioned in the certificate of class X."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Natural Sciences",
+              "Agricultural Sciences",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters Degree in Natural or Agricultural or Pharmaceutical Sciences from a recognized University or equivalent."
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "bachelor's degree in Engineering or Technology from a recognized University or equivalent."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Medicine"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "bachelor's degree in Medicine from a recognized University or equivalent."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:6fbb4b406d8c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/Notification-2026_02.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": null,
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Upper Age limit: 35 years"
+        },
+        "lastDate": {
+          "page": 2,
+          "snippet": "Last date to submit application through online: 02nd"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Masters/ Integrated Masters Degree in Natural or Agricultural or Pharmaceutical Sciences"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "CATEGORY I"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Empanelment of project staff purely on temporary basis for research in Cell/Molecular/Structural biology and Ecology & evolutionary biology at CSIR-CCMB, Hyderabad, under Category I (Masters-level or bachelor's in Engineering, Technology or Medicine).",
+      "title": "Project Staff - Category I",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-19T02:31:11.553Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification"
+        ]
+      }
+    },
+    {
+      "advtNo": "2026/02",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-19T02:31:11.553Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-19T02:31:11.553Z",
+        "lastDate": "2026-12-02",
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable number of years of experience in Research and Development in Industrial and Academic Institutions or science and Technology Organizations and Scientific activities and services.",
+          "Candidates with last semester result awaited or incomplete degrees are not eligible to apply.",
+          "The name of the candidate in the application form must be the same as mentioned in the certificate of class X."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D.",
+              "MD",
+              "MS"
+            ],
+            "disciplines": [
+              "Science",
+              "Pharma",
+              "Medicine"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science/ Pharma/ MD/ MS from a recognized University or equivalent."
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters degree in Engineering or Technology from a recognized University or equivalent."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:fc9817ab26cf",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/Notification-2026_02.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": null,
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Upper Age limit: 40 years"
+        },
+        "lastDate": {
+          "page": 2,
+          "snippet": "Last date to submit application through online: 02nd"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Doctoral Degree in Science/ Pharma/ MD/ MS OR Masters/"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "CATEGORY II"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Empanelment of project staff purely on temporary basis for research in Cell/Molecular/Structural biology and Ecology & evolutionary biology at CSIR-CCMB, Hyderabad, under Category II (doctoral or Masters/Integrated Masters in Engineering or Technology).",
+      "title": "Project Staff - Category II",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-19T02:31:11.553Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:31:08.950Z",
+  "generatedAt": "2026-11-19T02:31:47.416Z",
   "opportunities": [
     {
       "advtNo": "2026/02",
@@ -382,21 +382,21 @@
       }
     },
     {
-      "advtNo": "Rec.02/2026",
+      "advtNo": "2026/02",
       "applyMode": "online",
       "changeLog": [],
       "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
+        "firstSeen": "2026-11-19T02:31:11.553Z",
         "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
+        "lastChanged": "2026-11-19T02:31:11.553Z",
+        "lastDate": "2026-12-02",
+        "posted": "2026-11-11"
       },
       "eligibility": {
         "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
           "relaxations": [
             {
               "group": "SC",
@@ -407,1790 +407,239 @@
               "years": 5
             },
             {
-              "group": "OBC",
-              "years": 3
-            },
-            {
               "group": "PwBD",
-              "years": 10
+              "years": 5
             },
             {
-              "group": "ExServicemen",
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
               "years": 3
             }
           ]
         },
         "experience": null,
         "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
+          "Desirable number of years of experience in Research and Development in Industrial and Academic Institutions or science and Technology Organizations and Scientific activities and services.",
+          "Candidates with last semester result awaited or incomplete degrees are not eligible to apply.",
+          "The name of the candidate in the application form must be the same as mentioned in the certificate of class X."
         ],
         "qualifications": [
           {
-            "degrees": [],
-            "disciplines": [
-              "Laboratory Assistant (Chemical Plant)"
+            "degrees": [
+              "M.Sc."
             ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Laboratory Assistant (Chemical Plant)."
+            "disciplines": [
+              "Natural Sciences",
+              "Agricultural Sciences",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters Degree in Natural or Agricultural or Pharmaceutical Sciences from a recognized University or equivalent."
+          },
+          {
+            "degrees": [
+              "B.E.",
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "bachelor's degree in Engineering or Technology from a recognized University or equivalent."
           },
           {
             "degrees": [],
             "disciplines": [
-              "Laboratory Assistant (Chemical Plant)"
+              "Medicine"
             ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Laboratory Assistant (Chemical Plant)."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Laboratory Assistant (Chemical Plant)"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Laboratory Assistant (Chemical Plant) in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "bachelor's degree in Medicine from a recognized University or equivalent."
           }
         ],
         "requiredExams": []
       },
-      "id": "csir-cftri:1a719773d069",
-      "kind": "job",
+      "id": "csir-ccmb:6fbb4b406d8c",
+      "kind": "project_post",
       "language": "en",
       "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
+        "apply": null,
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/Notification-2026_02.pdf"
       },
       "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
+        "city": "Hyderabad",
+        "state": "Telangana"
       },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
+      "pay": null,
       "provenance": {
         "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
+          "page": 1,
+          "snippet": "Upper Age limit: 35 years"
         },
         "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
           "page": 2,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+          "snippet": "Last date to submit application through online: 02nd"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "Masters/ Integrated Masters Degree in Natural or Agricultural or Pharmaceutical Sciences"
         },
         "title": {
           "page": 1,
-          "snippet": "Technician (1)"
+          "snippet": "CATEGORY I"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
+        "parent": "CSIR",
+        "shortName": "CCMB",
+        "state": "Telangana"
+      },
+      "summary": "Empanelment of project staff purely on temporary basis for research in Cell/Molecular/Structural biology and Ecology & evolutionary biology at CSIR-CCMB, Hyderabad, under Category I (Masters-level or bachelor's in Engineering, Technology or Medicine).",
+      "title": "Project Staff - Category I",
+      "vacancies": null,
+      "verification": {
+        "checkedAt": "2026-11-19T02:31:11.553Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification"
+        ]
+      }
+    },
+    {
+      "advtNo": "2026/02",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-19T02:31:11.553Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-19T02:31:11.553Z",
+        "lastDate": "2026-12-02",
+        "posted": "2026-11-11"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
         },
-        "vacancies": {
+        "experience": null,
+        "other": [
+          "Desirable number of years of experience in Research and Development in Industrial and Academic Institutions or science and Technology Organizations and Scientific activities and services.",
+          "Candidates with last semester result awaited or incomplete degrees are not eligible to apply.",
+          "The name of the candidate in the application form must be the same as mentioned in the certificate of class X."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D.",
+              "MD",
+              "MS"
+            ],
+            "disciplines": [
+              "Science",
+              "Pharma",
+              "Medicine"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "Doctoral Degree in Science/ Pharma/ MD/ MS from a recognized University or equivalent."
+          },
+          {
+            "degrees": [
+              "M.E.",
+              "M.Tech"
+            ],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters/ Integrated Masters degree in Engineering or Technology from a recognized University or equivalent."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-ccmb:fc9817ab26cf",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": null,
+        "listing": "https://www.ccmb.res.in/job-notifications/",
+        "notice": "https://www.ccmb.res.in/wp-content/uploads/2026/11/Notification-2026_02.pdf"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "pay": null,
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Upper Age limit: 40 years"
+        },
+        "lastDate": {
           "page": 2,
-          "snippet": "[Total = 2 posts]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Laboratory Assistant (Chemical Plant) trade at CSIR-CFTRI, Mysuru. Two posts: UR-1, SC-1.",
-      "title": "Technician (1) - Laboratory Assistant (Chemical Plant) (TE04)",
-      "vacancies": 2,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Electronics Mechanic"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Electronics Mechanic."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Electronics Mechanic"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Electronics Mechanic."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Electronics Mechanic"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Electronics Mechanic in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:2b0df4ba2ff5",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
+          "snippet": "Last date to submit application through online: 02nd"
         },
         "qualification": {
-          "page": 2,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
+          "page": 1,
+          "snippet": "Doctoral Degree in Science/ Pharma/ MD/ MS OR Masters/"
         },
         "title": {
           "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 2,
-          "snippet": "[Total = 7 posts]"
+          "snippet": "CATEGORY II"
         }
       },
       "schemaVersion": 1,
       "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
+        "city": "Hyderabad",
+        "homepage": "https://www.ccmb.res.in/",
+        "id": "csir-ccmb",
+        "name": "CSIR-Centre for Cellular and Molecular Biology",
         "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
+        "shortName": "CCMB",
+        "state": "Telangana"
       },
-      "summary": "Regular direct-recruitment Technician (1) post in the Electronics Mechanic trade at CSIR-CFTRI, Mysuru. Seven posts: UR-4, EWS-1, SC-1, OBC(NCL)-1; one post each reserved for ESM and PwBD category c.",
-      "title": "Technician (1) - Electronics Mechanic (TE02)",
-      "vacancies": 7,
+      "summary": "Empanelment of project staff purely on temporary basis for research in Cell/Molecular/Structural biology and Ecology & evolutionary biology at CSIR-CCMB, Hyderabad, under Category II (doctoral or Masters/Integrated Masters in Engineering or Technology).",
+      "title": "Project Staff - Category II",
+      "vacancies": null,
       "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Electrician"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Electrician."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Electrician"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Electrician."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Electrician"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Electrician in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:41316346a376",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 3,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 3,
-          "snippet": "[Total = 2 posts]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Electrician trade at CSIR-CFTRI, Mysuru. Two posts: EWS-1, ST-1.",
-      "title": "Technician (1) - Electrician (TE08)",
-      "vacancies": 2,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Instrument Mechanic"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Instrument Mechanic."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Instrument Mechanic"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Instrument Mechanic."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Instrument Mechanic"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Instrument Mechanic in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:4d8c7976af3b",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 2,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 2,
-          "snippet": "[Total = 1 post]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Instrument Mechanic trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
-      "title": "Technician (1) - Instrument Mechanic (TE03)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Information & Communication Technology System Maintenance"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Information & Communication Technology System Maintenance."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Information & Communication Technology System Maintenance"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Information & Communication Technology System Maintenance."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Information & Communication Technology System Maintenance"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Information & Communication Technology System Maintenance in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:59331a8f9cad",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 3,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 3,
-          "snippet": "[Total = 1 post]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the ICT System Maintenance trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
-      "title": "Technician (1) - Information & Communication Technology System Maintenance (TE06)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Turner"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Turner."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Turner"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Turner."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Turner"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Turner in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:5a8f6686fb0a",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 4,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 4,
-          "snippet": "[Total = 1 post]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Turner trade at CSIR-CFTRI, Mysuru. One post reserved for EWS.",
-      "title": "Technician (1) - Turner (TE12)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Carpenter"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Carpenter."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Carpenter"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Carpenter."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Carpenter"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Carpenter in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:5ced366f37b3",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 4,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 4,
-          "snippet": "[Total = 1 post]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Carpenter trade at CSIR-CFTRI, Mysuru. One post, unreserved (UR-1).",
-      "title": "Technician (1) - Carpenter (TE09)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Sheet Metal Worker"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Sheet Metal Worker."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Sheet Metal Worker"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC/ 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Sheet Metal Worker."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Sheet Metal Worker"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Sheet Metal Worker in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:bc710c22689c",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 4,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 4,
-          "snippet": "[Total = 1 post]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Sheet Metal Worker trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
-      "title": "Technician (1) - Sheet Metal Worker (TE11)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Refrigeration & Air Conditioning Technician"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Refrigeration & Air Conditioning Technician."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Refrigeration & Air Conditioning Technician"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Refrigeration & Air Conditioning Technician."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Refrigeration & Air Conditioning Technician"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Refrigeration & Air Conditioning Technician in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:c24b92ee1ae8",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 3,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 3,
-          "snippet": "[Total = 2 posts]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Refrigeration & Air Conditioning Technician trade at CSIR-CFTRI, Mysuru. Two posts: SC-1, OBC(NCL)-1.",
-      "title": "Technician (1) - Refrigeration & Air Conditioning Technician (TE07)",
-      "vacancies": 2,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Welder"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Welder."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Welder"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Welder."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Welder"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Welder in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:cb0f622e63c6",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 4,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 4,
-          "snippet": "[Total = 1 post]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Welder trade at CSIR-CFTRI, Mysuru. One post reserved for OBC(NCL).",
-      "title": "Technician (1) - Welder (TE13)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Plumber"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Plumber."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Plumber"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Plumber."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Plumber"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Plumber in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:d949b90b633d",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 4,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 4,
-          "snippet": "[Total = 1 post]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Plumber trade at CSIR-CFTRI, Mysuru. One post reserved for EWS.",
-      "title": "Technician (1) - Plumber (TE10)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Computer Operator and Programming Assistant (COPA)"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Computer Operator and Programming Assistant (COPA)."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Computer Operator and Programming Assistant (COPA)"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Computer Operator and Programming Assistant (COPA)."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Computer Operator and Programming Assistant (COPA)"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Computer Operator and Programming Assistant (COPA) in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:d962d876eedd",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 3,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 3,
-          "snippet": "[Total = 2 posts]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the COPA trade at CSIR-CFTRI, Mysuru. Two posts: UR-1, OBC(NCL)-1; one post reserved for PwBD category b.",
-      "title": "Technician (1) - Computer Operator and Programming Assistant (COPA) (TE05)",
-      "vacancies": 2,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
-        "status": "partial",
-        "unsureFields": [
-          "requiredExams"
-        ]
-      }
-    },
-    {
-      "advtNo": "Rec.02/2026",
-      "applyMode": "online",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-10T13:16:22.659Z",
-        "interviewDate": null,
-        "lastChanged": "2026-11-10T13:16:22.659Z",
-        "lastDate": "2026-11-18",
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 28,
-          "min": 18,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            },
-            {
-              "group": "PwBD",
-              "years": 10
-            },
-            {
-              "group": "ExServicemen",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Applicant must be a citizen of India.",
-          "Job requirement: Incumbents are expected to provide skilled assistance to assist the Scientific & Technical Staff or perform any other tasks as specified by the Competent Authority.",
-          "SC/ST/OBC(NCL) age relaxation applies only against posts reserved for them."
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Fitter"
-            ],
-            "level": "iti",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard / SSC or equivalent with Science subjects, with minimum 55% marks and ITI certificate or national / state trade Certificate in Fitter."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Fitter"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 2 years full time experience as an apprentice trainee from a recognized institution in Fitter."
-          },
-          {
-            "degrees": [],
-            "disciplines": [
-              "Fitter"
-            ],
-            "level": "10th",
-            "minPercent": 55,
-            "text": "SSC / 10th Standard or equivalent with Science subjects, with minimum 55% marks and 3 years of work experience in Fitter in a Ministry / Department / Organization / Public Sector Undertaking / Autonomous Body under Government of India / State / UT."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-cftri:ee56a94b533f",
-      "kind": "job",
-      "language": "en",
-      "links": {
-        "apply": "https://recruitment.cftri.res.in",
-        "listing": "https://www.cftri.res.in/recruitments/regular-positions",
-        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-10/0_02357700_1792207749.pdf"
-      },
-      "location": {
-        "city": "Mysuru",
-        "state": "Karnataka"
-      },
-      "pay": {
-        "monthlyMax": 63200,
-        "monthlyMin": 19900,
-        "text": "Level-2 (₹19,900-63,200); total emoluments approx. ₹ 37,260 per month on minimum of scale including HRA as admissible in Mysuru HQs."
-      },
-      "provenance": {
-        "age": {
-          "page": 10,
-          "snippet": "should not exceed 28 years of age as on the last date for receipt of online application"
-        },
-        "lastDate": {
-          "page": 1,
-          "snippet": "18-11-2026 (upto 11:59 P.M.)"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "(₹19,900-63,200)"
-        },
-        "qualification": {
-          "page": 2,
-          "snippet": "with minimum 55% marks and ITI certificate or national / state"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "Technician (1)"
-        },
-        "vacancies": {
-          "page": 2,
-          "snippet": "[Total = 6 posts]"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Mysuru",
-        "homepage": "https://www.cftri.res.in/",
-        "id": "csir-cftri",
-        "name": "CSIR-Central Food Technological Research Institute",
-        "parent": "CSIR",
-        "shortName": "CFTRI",
-        "state": "Karnataka"
-      },
-      "summary": "Regular direct-recruitment Technician (1) post in the Fitter trade at CSIR-CFTRI, Mysuru. Six posts: UR-2, EWS-1, SC-1, OBC(NCL)-2; one post reserved for ESM.",
-      "title": "Technician (1) - Fitter (TE01)",
-      "vacancies": 6,
-      "verification": {
-        "checkedAt": "2026-11-10T13:16:22.659Z",
+        "checkedAt": "2026-11-19T02:31:11.553Z",
         "status": "verified",
         "unsureFields": []
       }
@@ -3260,123 +1709,6 @@
       "changeLog": [],
       "dates": {
         "firstSeen": "2026-11-12T12:31:20.933Z",
-        "interviewDate": "2026-11-18",
-        "lastChanged": "2026-11-12T12:31:20.933Z",
-        "lastDate": null,
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 35,
-          "min": null,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "PwBD",
-              "years": 5
-            },
-            {
-              "group": "Women",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Desirable: Experience of working in any Research Laboratory; proficient in record keeping, data management and making presentations.",
-          "Project tenure up to 31.03.2027"
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [],
-            "level": "10th",
-            "minPercent": null,
-            "text": "SSC/10th Plus ITI"
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-ihbt:122d1c65c84a",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
-        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
-      },
-      "location": {
-        "city": "Palampur",
-        "state": "Himachal Pradesh"
-      },
-      "pay": {
-        "monthlyMax": 18000,
-        "monthlyMin": 18000,
-        "text": "Rs. 18,000/-PM +10% HRA (HRA extra at 10%)"
-      },
-      "provenance": {
-        "age": {
-          "page": 2,
-          "snippet": "35 Years"
-        },
-        "interviewDate": {
-          "page": 2,
-          "snippet": "Date: 18-11-2026"
-        },
-        "pay": {
-          "page": 2,
-          "snippet": "Rs. 18,000/-PM +10% HRA"
-        },
-        "qualification": {
-          "page": 2,
-          "snippet": "SSC/10th Plus ITI"
-        },
-        "title": {
-          "page": 2,
-          "snippet": "Assistant-I"
-        },
-        "vacancies": {
-          "page": 2,
-          "snippet": "18002 01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Palampur",
-        "homepage": "https://www.ihbt.res.in/",
-        "id": "csir-ihbt",
-        "name": "CSIR-Institute of Himalayan Bioresource Technology",
-        "parent": "CSIR",
-        "shortName": "IHBT",
-        "state": "Himachal Pradesh"
-      },
-      "summary": "Walk-in interview for Project Assistant-I under the Building Scientific Competency through training in R&D project (SSP-0142) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
-      "title": "Project Assistant-I (PA-I)",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-12T12:31:20.933Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
-      "advtNo": "18/2026",
-      "applyMode": "walk_in",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-12T12:31:20.933Z",
         "interviewDate": "2026-11-19",
         "lastChanged": "2026-11-12T12:31:20.933Z",
         "lastDate": null,
@@ -4009,384 +2341,6 @@
       "changeLog": [],
       "dates": {
         "firstSeen": "2026-11-12T12:31:20.933Z",
-        "interviewDate": "2026-11-18",
-        "lastChanged": "2026-11-12T12:31:20.933Z",
-        "lastDate": null,
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 35,
-          "min": null,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "PwBD",
-              "years": 5
-            },
-            {
-              "group": "Women",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Desirable: Experience in IP Management/ Tech Transfer/ Survey/ Data Analysis/ S&T Management etc.",
-          "Project tenure up to 31.03.2027"
-        ],
-        "qualifications": [
-          {
-            "degrees": [],
-            "disciplines": [
-              "Agri",
-              "Biological Sciences",
-              "Pharma",
-              "Computer Sciences",
-              "Tech Management",
-              "MBA",
-              "Business Development"
-            ],
-            "level": "masters",
-            "minPercent": null,
-            "text": "Masters in Agri/ Biological Sciences/ Pharma/ Computer Sciences/ Tech Management/ MBA/ Business Development or related area from a recognized university."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-ihbt:94b9938d2cee",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
-        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
-      },
-      "location": {
-        "city": "Palampur",
-        "state": "Himachal Pradesh"
-      },
-      "pay": {
-        "monthlyMax": 25000,
-        "monthlyMin": 25000,
-        "text": "Rs. 25,000/-PM + 10% HRA (HRA extra at 10%)"
-      },
-      "provenance": {
-        "age": {
-          "page": 1,
-          "snippet": "35 Years"
-        },
-        "interviewDate": {
-          "page": 1,
-          "snippet": "Date: 18-11-2026"
-        },
-        "pay": {
-          "page": 1,
-          "snippet": "Rs. 25,000/-PM + 10% HRA"
-        },
-        "qualification": {
-          "page": 1,
-          "snippet": "Masters in Agri/ Biological"
-        },
-        "title": {
-          "page": 1,
-          "snippet": "PAT -I"
-        },
-        "vacancies": {
-          "page": 1,
-          "snippet": "18001 02"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Palampur",
-        "homepage": "https://www.ihbt.res.in/",
-        "id": "csir-ihbt",
-        "name": "CSIR-Institute of Himalayan Bioresource Technology",
-        "parent": "CSIR",
-        "shortName": "IHBT",
-        "state": "Himachal Pradesh"
-      },
-      "summary": "Walk-in interview for Project Associate PAT-I under the Technology Transfer Facilitation Centre (TTFC) project (GAP-0381) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary and co-terminus with the project.",
-      "title": "Project Associate PAT-I",
-      "vacancies": 2,
-      "verification": {
-        "checkedAt": "2026-11-12T12:31:20.933Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
-      "advtNo": "18/2026",
-      "applyMode": "walk_in",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-12T12:31:20.933Z",
-        "interviewDate": "2026-11-18",
-        "lastChanged": "2026-11-12T12:31:20.933Z",
-        "lastDate": null,
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 35,
-          "min": null,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "PwBD",
-              "years": 5
-            },
-            {
-              "group": "Women",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Desirable: Experience of working any Research Laboratory; good communication skills; conducting visits/exhibitions/outreach programs for students; record keeping and data management; Experience of rearing and handling of insects and molecular biology techniques.",
-          "Candidate may have to travel and stay in peculiar conditions (including remote areas).",
-          "Project tenure up to 31.03.2031"
-        ],
-        "qualifications": [
-          {
-            "degrees": [
-              "M.Sc."
-            ],
-            "disciplines": [
-              "Zoology",
-              "Entomology"
-            ],
-            "level": "masters",
-            "minPercent": null,
-            "text": "M.SC. Zoology/Entomology from a recognized university."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-ihbt:98e5bff8ac97",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
-        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
-      },
-      "location": {
-        "city": "Palampur",
-        "state": "Himachal Pradesh"
-      },
-      "pay": {
-        "monthlyMax": 31000,
-        "monthlyMin": 25000,
-        "text": "(a) Rs. 31,000/-PM + 10% HRA for candidates qualified in CSIR-UGC/ICAR/ICMR NET incl. lectureship/assistant professorship or GATE or national level examinations conducted by Central Govt. Departments like DBT/DST or equivalent and/or Agencies/Institutions; (b) Rs. 25,000/-PM + 10% HRA for others. HRA extra at 10%."
-      },
-      "provenance": {
-        "age": {
-          "page": 3,
-          "snippet": "35 Years"
-        },
-        "interviewDate": {
-          "page": 3,
-          "snippet": "Date: 18-11-2026"
-        },
-        "pay": {
-          "page": 3,
-          "snippet": "(a) Rs. 31,000/-PM + 10%"
-        },
-        "qualification": {
-          "page": 3,
-          "snippet": "M.SC. Zoology/Entomology from a"
-        },
-        "title": {
-          "page": 3,
-          "snippet": "PAT-I"
-        },
-        "vacancies": {
-          "page": 3,
-          "snippet": "18005 01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Palampur",
-        "homepage": "https://www.ihbt.res.in/",
-        "id": "csir-ihbt",
-        "name": "CSIR-Institute of Himalayan Bioresource Technology",
-        "parent": "CSIR",
-        "shortName": "IHBT",
-        "state": "Himachal Pradesh"
-      },
-      "summary": "Walk-in interview for Project Associate PAT-I under the CSIR-JIGYASA project (HCP002601) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
-      "title": "Project Associate PAT-I",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-12T12:31:20.933Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
-      "advtNo": "18/2026",
-      "applyMode": "walk_in",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-12T12:31:20.933Z",
-        "interviewDate": "2026-11-18",
-        "lastChanged": "2026-11-12T12:31:20.933Z",
-        "lastDate": null,
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 35,
-          "min": null,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "PwBD",
-              "years": 5
-            },
-            {
-              "group": "Women",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            }
-          ]
-        },
-        "experience": {
-          "minYears": 2,
-          "text": "2 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services"
-        },
-        "other": [
-          "Desirable: Good communication skills; record keeping and data management, conducting visits/exhibitions/outreach programmes for students.",
-          "Desirable: Experience of rearing and handling of insects and molecular biology techniques.",
-          "Project tenure up to 31.03.2027"
-        ],
-        "qualifications": [
-          {
-            "degrees": [
-              "M.Sc."
-            ],
-            "disciplines": [
-              "Zoology",
-              "Entomology"
-            ],
-            "level": "masters",
-            "minPercent": null,
-            "text": "M.Sc. Zoology/Entomology from a recognized university."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-ihbt:cf521c8f67d9",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
-        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
-      },
-      "location": {
-        "city": "Palampur",
-        "state": "Himachal Pradesh"
-      },
-      "pay": {
-        "monthlyMax": 28000,
-        "monthlyMin": 28000,
-        "text": "Rs. 28,000/-PM + 10% HRA (HRA extra at 10%)"
-      },
-      "provenance": {
-        "age": {
-          "page": 2,
-          "snippet": "35 Years"
-        },
-        "experience": {
-          "page": 2,
-          "snippet": "2 years’ experience in Research"
-        },
-        "interviewDate": {
-          "page": 2,
-          "snippet": "Date: 18-11-2026"
-        },
-        "pay": {
-          "page": 2,
-          "snippet": "Rs. 28,000/-PM + 10% HRA"
-        },
-        "qualification": {
-          "page": 2,
-          "snippet": "M.Sc. Zoology/Entomology from a"
-        },
-        "title": {
-          "page": 2,
-          "snippet": "PAT-II"
-        },
-        "vacancies": {
-          "page": 2,
-          "snippet": "18003 01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Palampur",
-        "homepage": "https://www.ihbt.res.in/",
-        "id": "csir-ihbt",
-        "name": "CSIR-Institute of Himalayan Bioresource Technology",
-        "parent": "CSIR",
-        "shortName": "IHBT",
-        "state": "Himachal Pradesh"
-      },
-      "summary": "Walk-in interview for Project Associate PAT-II under the Building Scientific Competency through training in R&D project (SSP-0142) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
-      "title": "Project Associate PAT-II",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-12T12:31:20.933Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
-      "advtNo": "18/2026",
-      "applyMode": "walk_in",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-12T12:31:20.933Z",
         "interviewDate": "2026-11-19",
         "lastChanged": "2026-11-12T12:31:20.933Z",
         "lastDate": null,
@@ -4496,128 +2450,6 @@
       },
       "summary": "Walk-in interview for Project Assistant under the project 'Deciphering the role of a membrane-Localized PKPLAT domain containing protein in high altitude adaptation and abiotic stress response in Picrorhiza kurroa' (GAP-0369) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
       "title": "Project Assistant",
-      "vacancies": 1,
-      "verification": {
-        "checkedAt": "2026-11-12T12:31:20.933Z",
-        "status": "verified",
-        "unsureFields": []
-      }
-    },
-    {
-      "advtNo": "18/2026",
-      "applyMode": "walk_in",
-      "changeLog": [],
-      "dates": {
-        "firstSeen": "2026-11-12T12:31:20.933Z",
-        "interviewDate": "2026-11-18",
-        "lastChanged": "2026-11-12T12:31:20.933Z",
-        "lastDate": null,
-        "posted": null
-      },
-      "eligibility": {
-        "age": {
-          "asOf": "2026-11-18",
-          "max": 35,
-          "min": null,
-          "relaxations": [
-            {
-              "group": "SC",
-              "years": 5
-            },
-            {
-              "group": "ST",
-              "years": 5
-            },
-            {
-              "group": "PwBD",
-              "years": 5
-            },
-            {
-              "group": "Women",
-              "years": 5
-            },
-            {
-              "group": "OBC",
-              "years": 3
-            }
-          ]
-        },
-        "experience": null,
-        "other": [
-          "Desirable: Experience of working in any Research Laboratory; Good communication skills; Experience of shooting, making and edit videos, short movies clips.",
-          "Candidate may have to travel and stay in peculiar conditions (including remote areas).",
-          "Project tenure up to 31.03.2031"
-        ],
-        "qualifications": [
-          {
-            "degrees": [
-              "B.Sc."
-            ],
-            "disciplines": [
-              "Biological Science"
-            ],
-            "level": "bachelors",
-            "minPercent": null,
-            "text": "B.Sc. (Biological Science) from a recognized university."
-          }
-        ],
-        "requiredExams": []
-      },
-      "id": "csir-ihbt:f65274a84a55",
-      "kind": "project_post",
-      "language": "en",
-      "links": {
-        "apply": null,
-        "listing": "https://www.ihbt.res.in/en/other-links/recruitment",
-        "notice": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf"
-      },
-      "location": {
-        "city": "Palampur",
-        "state": "Himachal Pradesh"
-      },
-      "pay": {
-        "monthlyMax": 20000,
-        "monthlyMin": 20000,
-        "text": "Rs. 20,000/- PM + 10% HRA (HRA extra at 10%)"
-      },
-      "provenance": {
-        "age": {
-          "page": 3,
-          "snippet": "35 Years"
-        },
-        "interviewDate": {
-          "page": 3,
-          "snippet": "Date: 18-11-2026"
-        },
-        "pay": {
-          "page": 3,
-          "snippet": "Rs. 20,000/- PM + 10% HRA"
-        },
-        "qualification": {
-          "page": 3,
-          "snippet": "B.Sc. (Biological Science) from a"
-        },
-        "title": {
-          "page": 3,
-          "snippet": "Assistant-II"
-        },
-        "vacancies": {
-          "page": 3,
-          "snippet": "18004 01"
-        }
-      },
-      "schemaVersion": 1,
-      "source": {
-        "city": "Palampur",
-        "homepage": "https://www.ihbt.res.in/",
-        "id": "csir-ihbt",
-        "name": "CSIR-Institute of Himalayan Bioresource Technology",
-        "parent": "CSIR",
-        "shortName": "IHBT",
-        "state": "Himachal Pradesh"
-      },
-      "summary": "Walk-in interview for Project Assistant-II under the CSIR-JIGYASA project (HCP002601) at CSIR-IHBT, Palampur, Himachal Pradesh, purely temporary.",
-      "title": "Project Assistant-II (PA-II)",
       "vacancies": 1,
       "verification": {
         "checkedAt": "2026-11-12T12:31:20.933Z",
@@ -5427,5 +3259,5 @@
     }
   ],
   "schemaVersion": 1,
-  "seq": 13
+  "seq": 14
 }
