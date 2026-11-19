@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-19",
+  "expire": [
+    {
+      "at": "2026-11-19T07:31:05.848Z",
+      "id": "csir-ccmb:1259be27d5a8",
+      "reason": "gone_from_source"
+    },
+    {
+      "at": "2026-11-19T07:31:05.848Z",
+      "id": "csir-ccmb:4d02505ea22f",
+      "reason": "gone_from_source"
+    }
+  ],
+  "generatedAt": "2026-11-19T07:31:05.848Z",
+  "prevSeq": 14,
+  "schemaVersion": 1,
+  "seq": 15,
+  "upserts": []
+}
