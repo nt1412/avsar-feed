@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:31:10.124Z",
+  "generatedAt": "2026-11-23T12:34:56.603Z",
   "opportunities": [
     {
       "advtNo": "C03/2026",
@@ -353,6 +353,1904 @@
       "verification": {
         "checkedAt": "2026-11-19T02:31:11.553Z",
         "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in cell culture and eukaryotic expression."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Life Sciences",
+              "related areas"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master's in Life Sciences or related areas"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:0b457dad0f8f",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "(a) Rs. 31,000/- + 20% HRA for candidates who have qualified CSIR UGC/ICAR/ICMR NET incl. lectureship / assistant professorship or GATE or those who have qualified National level examinations; (b) Rs. 25000/- + 20% HRA for others who do not fall under (a). HRA is extra."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 31,000/- +"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "Master's in Life Sciences or related areas"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate-I"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the BMGF (GAP0446) non-hormonal contraception project at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Associate-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 3,
+          "text": "3 years' experience in Digital Content Creation/ Science Communication in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services."
+        },
+        "other": [
+          "Desirable: Experience in digital content creation, video editing, photography/videography/character animation/movie making."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Science",
+              "Journalism & Mass Communication",
+              "Animation",
+              "Graphics Designing"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Masters in Science/ Journalism & Mass Communication/Animation/Graphics Designing and 3 years' experience in Digital Content Creation/ Science Communication in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:2a3049516204",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 42000,
+        "monthlyMin": 42000,
+        "text": "Rs. 42000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "40 Years"
+        },
+        "experience": {
+          "page": 4,
+          "snippet": "3 years' experience in Digital"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "Rs. 42000+20% HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "Masters in Science/ Journalism &"
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Senior-PAT"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary senior project post for digital science content and communication under the CSIR-JIGYASA (HCP002601) project at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Senior-PAT",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-01",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-01",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in Organic Synthesis"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry",
+              "Chemical Sciences",
+              "Pharmaceutical Chemistry",
+              "Pharmaceutical Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc. in Chemistry/Chemical Sciences/Pharmaceutical Chemistry/Pharmaceutical Sciences and qualified CSIR- UGC/ICAR/ICMR NET incl. lectureship/assistant professorship or GATE OR those who have qualified National level examinations conducted by Central Government Departments like DBT/DST or equivalent and/or their Agencies/Institutions."
+          }
+        ],
+        "requiredExams": [
+          "CSIR-UGC NET",
+          "ICAR NET",
+          "ICMR NET",
+          "GATE",
+          "National level examinations by Central Government Departments (e.g., DBT/DST)"
+        ]
+      },
+      "id": "csir-cdri:4730dff0cb07",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 31000,
+        "text": "Rs. 31000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 01.12.2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Rs. 31000+20% HRA"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "M.Sc. in Chemistry"
+        },
+        "requiredExams": {
+          "page": 1,
+          "snippet": "NET incl. lectureship/assistant"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate-I"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the DST (GAP0439) nodal centres project at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Associate-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Masters in any subject or 2 years experience in Science communication or outreach activities."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Sc."
+            ],
+            "disciplines": [],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Sc."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "3 Years Diploma in Engineering/Technology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:49af5876b7c6",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "Rs. 20000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "Rs. 20000+20% HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "B.Sc."
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Assistant-II"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the CSIR-JIGYASA (HCP002601) outreach project at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Assistant-II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 40,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 1,
+          "text": "1 year experience"
+        },
+        "other": [
+          "Desirable: Experience in cell based and animal studies."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "Ph.D."
+            ],
+            "disciplines": [
+              "Life Sciences"
+            ],
+            "level": "phd",
+            "minPercent": null,
+            "text": "PhD in the area of Life Sciences or equivalent degree with 1 year experience"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:4fbc493d9ea7",
+      "kind": "job",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 54000,
+        "monthlyMin": 54000,
+        "text": "Rs. 54000+16% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "40 Years"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "1 year experience"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 54000+16% HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "PhD in the area of Life Sciences"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Research Associate-III"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Research Associate post under the AYUSH (GAP0481) Centre of Excellence project for Ayurveda research at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Research Associate-III",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-01",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-01",
+          "max": 28,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 1,
+          "text": "Two years' experience in relevant subject/field (10th + Diploma route) or one year of experience in the relevant subject (graduate route)."
+        },
+        "other": [
+          "Desirable: Experience in handling HPLC, sample preparations, clinical research.",
+          "Post Graduate will be considered as experience."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "MLT",
+              "DMLT"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "10th + Diploma (MLT/DMLT or equivalent) + two years' experience in relevant subject/field"
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Pharmaceutical Chemistry",
+              "Analytical Chemistry",
+              "Pharmaceutics"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Three years Graduate Degree in Pharmaceutical Chemistry/Analytical Chemistry/Pharmaceutics or equivalent + one year of experience in the relevant subject."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:7459496d0862",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "Rs. 18,000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "28 Years"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "two years' experience"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 01.12.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 18,000+20% HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "10th + Diploma (MLT/DMLT or"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Technical Support-I"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the ICMR (GAP0516) project on heavy metals and ovarian reserve at CSIR-CDRI, Lucknow; filled by walk-in interview.",
+      "title": "Project Technical Support-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": [
+          "qualification"
+        ]
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-01",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-01",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: >=55% marks in M.Sc. (Organic chemistry/Chemistry with Organic major) or equivalent"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Chemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M. Sc. Chemistry"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:7a7b251ef961",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "Rs. 25000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 01.12.2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Rs. 25000+20% HRA"
+        },
+        "qualification": {
+          "page": 1,
+          "snippet": "M. Sc. Chemistry"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate (PAT-I)"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the CSIR-CDRI ULIP (MLP002605) project at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Associate (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-01",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-04-01",
+          "max": 28,
+          "min": null,
+          "relaxations": []
+        },
+        "experience": null,
+        "other": [
+          "Candidate must be resident of Uttar Pradesh",
+          "Desirable: Pharmacology or biotechnology preferably; GPAT Qualified"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Pharm"
+            ],
+            "disciplines": [
+              "Pharmacy"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Pharm; High academic attainment with 1st Class graduate and post graduate examination."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:93b96c53f78c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 25000,
+        "text": "Rs. 25000 pm for first 2 years and Rs. 28000 p.m. for 3rd Year"
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "28 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 01.12.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 25000 pm for first 2"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "High academic attainment with 1st Class graduate"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Junior Research Assistant"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the CST, UP (GAP0477) project on 3D bioprinting at CSIR-CDRI, Lucknow, for UP residents; filled by walk-in interview.",
+      "title": "Junior Research Assistant",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in mammalian cell culture, protein expression and purification, molecular Biology and animal handling."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Life Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master's/Integrated Master's in Life Sciences"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:988bb0deba4a",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "Rs. 25000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 25000+20% HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Master's/Integrated Master's in Life Sciences"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate (PAT-I)"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the CSIR-CDRI ULIP (MLP002605) project, Work Package 3.8, at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Associate (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-01",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-01",
+          "max": 28,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 1,
+          "text": "Two years' experience in relevant subject/field (10th + Diploma route) or one year of experience in the relevant subject (graduate route)."
+        },
+        "other": [
+          "Desirable: Experience in ICP-MS/AAS/trace element analysis, acid digestion and sample preparation. Work in collaboration with Integral University Lucknow.",
+          "Post Graduate will be considered as experience."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "MLT",
+              "DMLT"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "10th + Diploma (MLT/DMLT or equivalent) + two years' experience in relevant subject/field"
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Chemistry",
+              "Analytical Chemistry",
+              "Environmental Science"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Three years Graduate Degree in Chemistry/Analytical Chemistry/Environmental Science or equivalent + one year of experience in the relevant subject."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:9a72f1547508",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "Rs. 18,000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "28 Years"
+        },
+        "experience": {
+          "page": 2,
+          "snippet": "two years' experience"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 01.12.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 18,000+20% HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "10th + Diploma (MLT/DMLT or"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Technical Support-I"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the ICMR (GAP0516) project on heavy metals and ovarian reserve at CSIR-CDRI, Lucknow, with collaboration with Integral University Lucknow; filled by walk-in interview.",
+      "title": "Project Technical Support-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Experience in the mammalian tissue culture work; experience in cloning, expression, and purification of heterologous protein expression in prokaryotes and eukaryote hosts."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Biological Sciences"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master's Degree in area of Biological Sciences"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:c38cf5cde47f",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 28000,
+        "monthlyMin": 28000,
+        "text": "Rs. 28000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 28000+20% HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Master's Degree in area of Biological Sciences"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Technical Support-III"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "(02 Positions)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Two temporary project posts under the ICMR (GAP0526) antiviral molecules project against Kyasanur Forest Disease Virus at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Technical Support-III",
+      "vacancies": 2,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 28,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 1,
+          "text": "Two years' experience in relevant subject/field (10th + Diploma route) or one year of experience in the relevant subject (graduate route)."
+        },
+        "other": [
+          "Desirable: Experience in biomarkers study, hematology and biochemical tests and clinical research.",
+          "Work in collaboration with KGMU.",
+          "Post Graduate will be considered as experience."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "MLT",
+              "DMLT"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "10th + Diploma (MLT/DMLT or equivalent) + two years' experience in relevant subject/field"
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Life Sciences",
+              "Biotechnology",
+              "Biochemistry",
+              "Microbiology",
+              "Pharmacology"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "Three years Graduate Degree in Life Sciences/Biotechnology/Biochemistry/Microbiology/Pharmacology or equivalent + one year of experience in the relevant subject."
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:c60056985bde",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 18000,
+        "monthlyMin": 18000,
+        "text": "Rs. 18,000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "28 Years"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "two years' experience"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 18,000+20% HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "10th + Diploma (MLT/DMLT or"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Technical Support-I"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the ICMR (GAP0516) project on heavy metals and ovarian reserve at CSIR-CDRI, Lucknow, with collaboration with KGMU; filled by walk-in interview.",
+      "title": "Project Technical Support-I",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": [
+          "interviewDate",
+          "qualification",
+          "age"
+        ]
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Masters in Science or 2 years experience in Molecular Biology and Biotechnology and Practical Knowledge of High end Scientific Equipment."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "B.Sc."
+            ],
+            "disciplines": [],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Sc."
+          },
+          {
+            "degrees": [],
+            "disciplines": [
+              "Engineering",
+              "Technology"
+            ],
+            "level": "diploma",
+            "minPercent": null,
+            "text": "3 Years Diploma in Engineering/Technology"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:d5ae6a60609c",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 20000,
+        "monthlyMin": 20000,
+        "text": "Rs. 20000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 4,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 4,
+          "snippet": "Rs. 20000+20% HRA"
+        },
+        "qualification": {
+          "page": 4,
+          "snippet": "B.Sc."
+        },
+        "title": {
+          "page": 4,
+          "snippet": "Project Assistant-II"
+        },
+        "vacancies": {
+          "page": 4,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the CSIR-JIGYASA (HCP002601) outreach project at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Assistant-II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-01",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-01",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Hands-on experience on HPLC"
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Pharm"
+            ],
+            "disciplines": [
+              "Pharmacy"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Pharm"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cdri:edf6585e33b6",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 31000,
+        "monthlyMin": 25000,
+        "text": "(a) Rs. 31,000/- + 20% HRA for candidates who have qualified CSIR UGC/ICAR/ICMR NET incl. lectureship / assistant professorship or GATE or GPAT; (b) Rs. 25000/- + 20% HRA for others who do not fall under (a). HRA is extra."
+      },
+      "provenance": {
+        "age": {
+          "page": 2,
+          "snippet": "35 Years"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 01.12.2026"
+        },
+        "pay": {
+          "page": 2,
+          "snippet": "Rs. 31,000/- +"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "M.Pharm"
+        },
+        "title": {
+          "page": 2,
+          "snippet": "Project Associate (PAT-I)"
+        },
+        "vacancies": {
+          "page": 2,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the CSIR-CDRI ULIP (MLP002605) project, Work Package 1.2, at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Associate (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
+        "unsureFields": []
+      }
+    },
+    {
+      "advtNo": "11/2026",
+      "applyMode": "walk_in",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-23T12:31:26.488Z",
+        "interviewDate": "2026-12-02",
+        "lastChanged": "2026-11-23T12:31:26.488Z",
+        "lastDate": null,
+        "posted": null
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-02",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": {
+          "minYears": 2,
+          "text": "2 Years of experience in Research and Development in Industrial or Academic Institutions or Science and Technology Organization and Scientific activities and services."
+        },
+        "other": [
+          "Desirable: Past 2 years of lab research experience in cell culture and molecular biology."
+        ],
+        "qualifications": [
+          {
+            "degrees": [],
+            "disciplines": [
+              "Biology",
+              "Life Science"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "Master Degree in Biology or Life Science field and 2 Years of experience in Research and Development in Industrial or Academic Institutions or Science and Technology Organization and Scientific activities and services, and qualified CSIR UGC/ICAR/ICMR NET incl. lectureship / assistant professorship or GATE OR those who have qualified National level examinations conducted by Central Government Departments like DBT/DST or equivalent and/or Their Agencies/Institutions."
+          }
+        ],
+        "requiredExams": [
+          "CSIR UGC NET",
+          "ICAR NET",
+          "ICMR NET",
+          "GATE",
+          "National level examinations conducted by Central Government Departments like DBT/DST"
+        ]
+      },
+      "id": "csir-cdri:f144977bce9d",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://www.cdri.res.in",
+        "listing": "https://www.cdri.res.in/",
+        "notice": "https://www.cdri.res.in/pdf/recruitment/Advt_11-2026.pdf"
+      },
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "pay": {
+        "monthlyMax": 35000,
+        "monthlyMin": 35000,
+        "text": "Rs. 35000+20% HRA p.m."
+      },
+      "provenance": {
+        "age": {
+          "page": 3,
+          "snippet": "35 Years"
+        },
+        "experience": {
+          "page": 3,
+          "snippet": "2 Years of experience in"
+        },
+        "interviewDate": {
+          "page": 1,
+          "snippet": "will be held on 02.12.2026"
+        },
+        "pay": {
+          "page": 3,
+          "snippet": "Rs. 35000+20% HRA"
+        },
+        "qualification": {
+          "page": 3,
+          "snippet": "Master Degree in Biology or Life"
+        },
+        "requiredExams": {
+          "page": 4,
+          "snippet": "NET incl. lectureship / assistant"
+        },
+        "title": {
+          "page": 3,
+          "snippet": "Project Associate-II"
+        },
+        "vacancies": {
+          "page": 3,
+          "snippet": "(01 Position)"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Lucknow",
+        "homepage": "https://www.cdri.res.in/",
+        "id": "csir-cdri",
+        "name": "CSIR-Central Drug Research Institute",
+        "parent": "CSIR",
+        "shortName": "CDRI",
+        "state": "Uttar Pradesh"
+      },
+      "summary": "Temporary project post under the Lady Tata Memorial Trust (GAP0527) B-cell lymphoma research grant at CSIR-CDRI, Lucknow, filled by walk-in interview.",
+      "title": "Project Associate-II",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-23T12:31:26.488Z",
+        "status": "partial",
         "unsureFields": []
       }
     },
@@ -2345,5 +4243,5 @@
     }
   ],
   "schemaVersion": 1,
-  "seq": 16
+  "seq": 17
 }

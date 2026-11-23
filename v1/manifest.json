@@ -149,15 +149,24 @@
       "seq": 16,
       "sha256": "9f4b7d75dad142abcadc19358a1a200f74c3033863507cb342d9f63ff9031121",
       "upserts": 0
+    },
+    {
+      "date": "2026-11-23",
+      "expires": 0,
+      "path": "diffs/000017.json",
+      "prevSeq": 16,
+      "seq": 17,
+      "sha256": "126df2202effe6b9e029d448a2f21ed3f2bad20e1ff803c6f2fb0eeef143efde",
+      "upserts": 15
     }
   ],
-  "generatedAt": "2026-11-20T02:31:10.124Z",
-  "latestSeq": 16,
+  "generatedAt": "2026-11-23T12:34:56.603Z",
+  "latestSeq": 17,
   "schemaVersion": 1,
   "snapshot": {
-    "count": 19,
+    "count": 34,
     "path": "snapshot.json",
-    "seq": 16,
-    "sha256": "14e8689fd9a7162a7b4eecf6665f897c4156e65768d1f3211b37cfb40fb47aae"
+    "seq": 17,
+    "sha256": "06f3c772f65f945baddb15470c0db4320ba84d742e12eab800666ca21e413a7b"
   }
 }
