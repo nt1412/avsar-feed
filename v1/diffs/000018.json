@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-24",
+  "expire": [
+    {
+      "at": "2026-11-24T02:31:03.743Z",
+      "id": "csir-nal:3d1aa29dd502",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-24T02:31:03.743Z",
+      "id": "csir-nal:63b4eec9e704",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-24T02:31:03.743Z",
+      "id": "csir-nal:79ad0201fd35",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-24T02:31:03.743Z",
+      "id": "csir-nal:8b190df9b26e",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-24T02:31:03.743Z",
+      "id": "csir-nal:cc3c8d273fc9",
+      "reason": "deadline_passed"
+    },
+    {
+      "at": "2026-11-24T02:31:03.743Z",
+      "id": "csir-nal:f1fc08df8348",
+      "reason": "deadline_passed"
+    }
+  ],
+  "generatedAt": "2026-11-24T02:31:03.743Z",
+  "prevSeq": 17,
+  "schemaVersion": 1,
+  "seq": 18,
+  "upserts": []
+}
