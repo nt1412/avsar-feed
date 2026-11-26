@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:31:03.743Z",
+  "generatedAt": "2026-11-26T12:31:27.243Z",
   "opportunities": [
     {
       "advtNo": "C03/2026",
@@ -2255,6 +2255,147 @@
       }
     },
     {
+      "advtNo": "PAT Re-Advt 42/2026",
+      "applyMode": "online",
+      "changeLog": [],
+      "dates": {
+        "firstSeen": "2026-11-26T12:31:06.385Z",
+        "interviewDate": null,
+        "lastChanged": "2026-11-26T12:31:06.385Z",
+        "lastDate": "2026-12-12",
+        "posted": "2026-11-26"
+      },
+      "eligibility": {
+        "age": {
+          "asOf": "2026-12-12",
+          "max": 35,
+          "min": null,
+          "relaxations": [
+            {
+              "group": "SC",
+              "years": 5
+            },
+            {
+              "group": "ST",
+              "years": 5
+            },
+            {
+              "group": "PwBD",
+              "years": 5
+            },
+            {
+              "group": "Women",
+              "years": 5
+            },
+            {
+              "group": "OBC",
+              "years": 3
+            }
+          ]
+        },
+        "experience": null,
+        "other": [
+          "Desirable: Hands-on experience in protein extraction and characterization, and biochemical analysis.",
+          "Only candidates who have already acquired the essential qualification and whose results have been declared are eligible; result awaited or final semester appeared/appearing candidates are not eligible.",
+          "Candidates who have already completed a total of 6 years as CSIR project staff are not eligible."
+        ],
+        "qualifications": [
+          {
+            "degrees": [
+              "M.Sc."
+            ],
+            "disciplines": [
+              "Food Science & Technology",
+              "Food Technology",
+              "Food Science",
+              "Food Science and Nutrition",
+              "Biotechnology",
+              "Biochemistry"
+            ],
+            "level": "masters",
+            "minPercent": null,
+            "text": "M.Sc in Food Science & Technology/Food Technology/ Food Science/Food Science and Nutrition/ Biotechnology/ Biochemistry"
+          },
+          {
+            "degrees": [
+              "B.Tech"
+            ],
+            "disciplines": [
+              "Food Technology",
+              "Biotechnology",
+              "Food Processing & Engineering",
+              "Food Engineering"
+            ],
+            "level": "bachelors",
+            "minPercent": null,
+            "text": "B.Tech in Food Technology/ Biotechnology/ Food Processing & Engineering/ Food Engineering"
+          }
+        ],
+        "requiredExams": []
+      },
+      "id": "csir-cftri:a03f6e79f831",
+      "kind": "project_post",
+      "language": "en",
+      "links": {
+        "apply": "https://patcell.cftri.res.in",
+        "listing": "https://www.cftri.res.in/recruitments/project-positions",
+        "notice": "https://www.cftri.res.in/sites/default/files/recruitments/2026-11/GAP-000681_0.pdf"
+      },
+      "location": {
+        "city": "Mysuru",
+        "state": "Karnataka"
+      },
+      "pay": {
+        "monthlyMax": 25000,
+        "monthlyMin": 25000,
+        "text": "Rs. 25,000/- plus HRA"
+      },
+      "provenance": {
+        "age": {
+          "page": 1,
+          "snippet": "Candidates should not have exceeded 35 years of age as on the last date of receiving"
+        },
+        "lastDate": {
+          "page": 3,
+          "snippet": "on or before 12.12.2026"
+        },
+        "pay": {
+          "page": 1,
+          "snippet": "Rs. 25,000/- plus HRA"
+        },
+        "qualification": {
+          "page": 2,
+          "snippet": "B.Tech in Food Technology/ Biotechnology/ Food Processing & Engineering/ Food"
+        },
+        "title": {
+          "page": 1,
+          "snippet": "Project Associate – I"
+        },
+        "vacancies": {
+          "page": 1,
+          "snippet": "1 35"
+        }
+      },
+      "schemaVersion": 1,
+      "source": {
+        "city": "Mysuru",
+        "homepage": "https://www.cftri.res.in/",
+        "id": "csir-cftri",
+        "name": "CSIR-Central Food Technological Research Institute",
+        "parent": "CSIR",
+        "shortName": "CFTRI",
+        "state": "Karnataka"
+      },
+      "summary": "One temporary contractual Project Associate-I post for the project 'Unveiling the potential of edible aquatic weeds for sustainable protein extraction and their application in the meat analogues development' (project number GAP000681) at CSIR-CFTRI, Mysuru.",
+      "title": "Project Associate – I (PAT-I)",
+      "vacancies": 1,
+      "verification": {
+        "checkedAt": "2026-11-26T12:31:06.385Z",
+        "status": "verified",
+        "unsureFields": []
+      }
+    },
+    {
       "advtNo": "HRDG/JIGYASA/01/2026",
       "applyMode": "walk_in",
       "changeLog": [],
@@ -3443,5 +3584,5 @@
     }
   ],
   "schemaVersion": 1,
-  "seq": 18
+  "seq": 19
 }
